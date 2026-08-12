@@ -1,0 +1,858 @@
+@import "tailwindcss";
+@import "react-phone-number-input/style.css";
+
+@theme {
+  --color-brand-50: #eef3ff;
+  --color-brand-100: #dce6ff;
+  --color-brand-200: #b9cdff;
+  --color-brand-300: #8cabff;
+  --color-brand-400: #5b81f4;
+  --color-brand-500: #345de0;
+  --color-brand-600: #1e43b8;
+  --color-brand-700: #15348f;
+  --color-brand-800: #032a7d;
+  --color-brand-900: #051c58;
+  --color-brand-950: #030f31;
+
+  --font-sans:
+    "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+
+  --shadow-soft: 0 20px 60px -20px rgba(3, 42, 125, 0.22);
+  --shadow-elevated: 0 30px 90px -30px rgba(3, 15, 49, 0.35);
+  --shadow-glow: 0 0 80px -10px rgba(91, 129, 244, 0.55);
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #f7f9ff;
+  --background-2: #edf1fb;
+  --foreground: #050a1f;
+  --surface: #ffffff;
+  --surface-2: #f1f4fc;
+  --border: #e3e8f5;
+  --border-strong: #cdd6ee;
+  --muted: #5a6586;
+  color-scheme: light;
+}
+
+.dark {
+  --background: #0b1638;
+  --background-2: #132150;
+  --foreground: #eaf0ff;
+  --surface: #17245a;
+  --surface-2: #1f2d6b;
+  --border: #2a3a78;
+  --border-strong: #3a4d9c;
+  --muted: #a9b5da;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-background-2: var(--background-2);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-muted: var(--muted);
+}
+
+html,
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.01em;
+  overflow-x: clip;
+  max-width: 100%;
+}
+
+body {
+  min-height: 100dvh;
+  position: relative;
+  transition:
+    background-color 400ms ease,
+    color 400ms ease;
+  background-image:
+    radial-gradient(60% 40% at 90% 0%, color-mix(in oklab, var(--color-brand-500) 10%, transparent), transparent 70%),
+    radial-gradient(50% 40% at 0% 20%, color-mix(in oklab, var(--color-brand-800) 8%, transparent), transparent 70%);
+}
+
+/* Prevent any element from causing horizontal overflow */
+img, video, svg, iframe {
+  max-width: 100%;
+}
+
+.dark body {
+  background-image:
+    radial-gradient(60% 40% at 90% 0%, color-mix(in oklab, var(--color-brand-500) 18%, transparent), transparent 70%),
+    radial-gradient(50% 40% at 0% 20%, color-mix(in oklab, var(--color-brand-800) 28%, transparent), transparent 70%);
+}
+
+* {
+  border-color: var(--border);
+}
+
+::selection {
+  background: var(--color-brand-800);
+  color: #fff;
+}
+
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0) translateX(0); }
+  50% { transform: translateY(-14px) translateX(10px); }
+}
+@keyframes float-slower {
+  0%, 100% { transform: translateY(0) translateX(0); }
+  50% { transform: translateY(18px) translateX(-12px); }
+}
+@keyframes grid-pan {
+  0% { background-position: 0 0; }
+  100% { background-position: 80px 80px; }
+}
+@keyframes marker-pulse {
+  0% { transform: scale(1); opacity: 0.7; }
+  100% { transform: scale(3.2); opacity: 0; }
+}
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@keyframes spin-slower {
+  from { transform: rotate(360deg); }
+  to { transform: rotate(0deg); }
+}
+@keyframes dash-travel {
+  to { stroke-dashoffset: -40; }
+}
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+@keyframes hero-grid-pan {
+  0% { background-position: 0 0; }
+  100% { background-position: 60px 60px; }
+}
+@keyframes hero-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(1.5); }
+}
+@keyframes hero-float-particle {
+  0% { opacity: 0; transform: translateY(0) translateX(0); }
+  10% { opacity: 0.7; }
+  90% { opacity: 0.4; }
+  100% { opacity: 0; transform: translateY(-120px) translateX(var(--dx, 30px)); }
+}
+@keyframes hero-cube {
+  from { transform: translate(-50%,-50%) rotateX(20deg) rotateY(0deg); }
+  to   { transform: translate(-50%,-50%) rotateX(20deg) rotateY(360deg); }
+}
+@keyframes hero-orbit {
+  from { transform: rotateX(70deg) rotateZ(0deg); }
+  to   { transform: rotateX(70deg) rotateZ(360deg); }
+}
+@keyframes hero-float-box {
+  from { transform: translateY(0); }
+  to   { transform: translateY(-14px); }
+}
+@keyframes hero-road {
+  0%, 100% { opacity: 0.45; }
+  50% { opacity: 1; }
+}
+
+.bg-grid {
+  background-image:
+    linear-gradient(to right, color-mix(in oklab, var(--foreground) 9%, transparent) 1px, transparent 1px),
+    linear-gradient(to bottom, color-mix(in oklab, var(--foreground) 9%, transparent) 1px, transparent 1px);
+  background-size: 80px 80px;
+  animation: grid-pan 40s linear infinite;
+  mask-image: radial-gradient(ellipse at center, #000 40%, transparent 75%);
+}
+
+.bg-dots {
+  background-image: radial-gradient(
+    color-mix(in oklab, var(--foreground) 20%, transparent) 1px,
+    transparent 1px
+  );
+  background-size: 20px 20px;
+  mask-image: radial-gradient(ellipse at center, #000 30%, transparent 75%);
+}
+
+.bg-gradient-brand {
+  background: linear-gradient(135deg, var(--color-brand-800) 0%, var(--color-brand-950) 100%);
+}
+
+.bg-hero-radial {
+  background:
+    radial-gradient(60% 60% at 20% 20%, color-mix(in oklab, var(--color-brand-800) 35%, transparent) 0%, transparent 60%),
+    radial-gradient(50% 50% at 80% 30%, color-mix(in oklab, var(--color-brand-500) 20%, transparent) 0%, transparent 60%),
+    radial-gradient(70% 50% at 50% 110%, color-mix(in oklab, var(--color-brand-950) 60%, transparent) 0%, transparent 60%);
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 1.5rem;
+  box-shadow: var(--shadow-soft);
+}
+
+.glass {
+  background: color-mix(in oklab, var(--surface) 70%, transparent);
+  backdrop-filter: blur(18px) saturate(1.2);
+  -webkit-backdrop-filter: blur(18px) saturate(1.2);
+  border: 1px solid var(--border);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.text-gradient {
+  background: linear-gradient(
+    135deg,
+    var(--color-brand-800) 0%,
+    var(--color-brand-500) 50%,
+    var(--color-brand-800) 100%
+  );
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 6s linear infinite;
+}
+
+.dark .text-gradient {
+  background: linear-gradient(
+    135deg,
+    #bcd0ff 0%,
+    #5b81f4 50%,
+    #bcd0ff 100%
+  );
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 6s linear infinite;
+}
+
+.route-line {
+  stroke-dasharray: 6 8;
+  animation: dash-travel 1.6s linear infinite;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Anchor targets must clear the fixed navbar (h-16, h-20 from sm up). */
+section[id] {
+  scroll-margin-top: 5rem;
+}
+
+@media (min-width: 640px) {
+  section[id] {
+    scroll-margin-top: 6rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ── Showcase / Hero 3D scene ── */
+.showcase-grid {
+  background-image:
+    linear-gradient(color-mix(in oklab, var(--color-brand-500) 28%, transparent) 1px, transparent 1px),
+    linear-gradient(90deg, color-mix(in oklab, var(--color-brand-500) 28%, transparent) 1px, transparent 1px);
+  background-size: 60px 60px;
+  animation: hero-grid-pan 22s linear infinite;
+  mask-image: radial-gradient(ellipse at center, #000 30%, transparent 80%);
+}
+.dark .showcase-grid {
+  background-image:
+    linear-gradient(rgba(120, 170, 255, 0.18) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(120, 170, 255, 0.18) 1px, transparent 1px);
+}
+
+.showcase-particle {
+  position: absolute;
+  background: var(--color-brand-500);
+  border-radius: 9999px;
+  animation: hero-float-particle var(--dur, 8s) linear infinite;
+  opacity: 0;
+}
+.dark .showcase-particle {
+  background: #5fd7ff;
+  box-shadow: 0 0 6px #5fd7ff;
+}
+
+.showcase-cube-wrap {
+  perspective: 900px;
+}
+.showcase-cube {
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 180px; height: 180px;
+  transform-style: preserve-3d;
+  animation: hero-cube 16s linear infinite;
+}
+.showcase-face {
+  position: absolute;
+  inset: 0;
+  border: 1px solid color-mix(in oklab, var(--color-brand-500) 50%, transparent);
+  background: color-mix(in oklab, var(--color-brand-500) 6%, transparent);
+  backdrop-filter: blur(2px);
+  display: flex; align-items: center; justify-content: center;
+}
+.dark .showcase-face {
+  border-color: rgba(95, 215, 255, 0.45);
+  background: rgba(13, 59, 122, 0.18);
+}
+.showcase-face--front  { transform: translateZ(90px); }
+.showcase-face--back   { transform: rotateY(180deg) translateZ(90px); }
+.showcase-face--left   { transform: rotateY(-90deg) translateZ(90px); }
+.showcase-face--right  { transform: rotateY(90deg) translateZ(90px); }
+.showcase-face--top    { transform: rotateX(90deg) translateZ(90px); }
+.showcase-face--bottom { transform: rotateX(-90deg) translateZ(90px); }
+
+.showcase-orbit {
+  position: absolute;
+  top: 50%; left: 50%;
+  border-radius: 9999px;
+  border: 1px solid color-mix(in oklab, var(--color-brand-500) 35%, transparent);
+  transform-style: preserve-3d;
+  animation: hero-orbit 12s linear infinite;
+}
+.dark .showcase-orbit {
+  border-color: rgba(95, 215, 255, 0.3);
+}
+.showcase-orbit-dot {
+  position: absolute;
+  top: 0; left: 50%;
+  width: 8px; height: 8px;
+  margin: -4px 0 0 -4px;
+  border-radius: 9999px;
+  background: var(--color-brand-500);
+  box-shadow: 0 0 12px color-mix(in oklab, var(--color-brand-500) 70%, transparent);
+}
+.dark .showcase-orbit-dot {
+  background: #5fd7ff;
+  box-shadow: 0 0 12px #5fd7ff;
+}
+
+.showcase-pulse {
+  animation: hero-pulse 2s ease-in-out infinite;
+}
+
+.showcase-floatbox {
+  animation: hero-float-box var(--dur, 4s) ease-in-out infinite alternate;
+}
+
+.showcase-road {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    color-mix(in oklab, var(--color-brand-500) 50%, transparent),
+    color-mix(in oklab, var(--color-brand-500) 90%, transparent),
+    color-mix(in oklab, var(--color-brand-500) 50%, transparent),
+    transparent
+  );
+  animation: hero-road 3s ease-in-out infinite;
+}
+.dark .showcase-road {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(95, 215, 255, 0.4),
+    #5fd7ff,
+    rgba(95, 215, 255, 0.4),
+    transparent
+  );
+}
+
+/* ---------------------------------------------------------------------------
+   3D logistics scene — a rotating shipping container above a perspective road.
+   Pure CSS transforms, no WebGL. The scene always sits on a dark navy panel,
+   so its palette is fixed here rather than following the light/dark theme.
+   ------------------------------------------------------------------------- */
+
+@keyframes cargo-spin {
+  from { transform: rotateX(-16deg) rotateY(0deg); }
+  to   { transform: rotateX(-16deg) rotateY(360deg); }
+}
+@keyframes cargo-hover {
+  0%, 100% { transform: translateY(6px); }
+  50%      { transform: translateY(-14px); }
+}
+@keyframes road-rush {
+  from { background-position: 50% 0, 50% 0, 50% 0, 50% 0; }
+  to   { background-position: 50% 0, 50% 0, 50% 0, 50% 74px; }
+}
+@keyframes beacon {
+  0%, 100% { opacity: 0.3; transform: scale(0.92); }
+  50%      { opacity: 0.8; transform: scale(1.1); }
+}
+
+.scene-3d {
+  --scene-edge: rgba(140, 215, 255, 0.85);
+  --scene-fill-a: rgb(16, 58, 122);
+  --scene-fill-b: rgb(29, 96, 178);
+  --scene-lane: rgba(140, 215, 255, 0.55);
+  perspective: 1200px;
+  perspective-origin: 50% 40%;
+}
+
+/* Anchor holds the centering translate so the box stays put even when the
+   spin animation is disabled by prefers-reduced-motion. */
+.cargo-anchor {
+  position: absolute;
+  top: 46%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform-style: preserve-3d;
+}
+.cargo-float {
+  animation: cargo-hover 6s ease-in-out infinite;
+  transform-style: preserve-3d;
+}
+.cargo {
+  position: relative;
+  width: var(--cargo-w, 150px);
+  height: var(--cargo-h, 96px);
+  transform-style: preserve-3d;
+  /* Static pose is already 3/4 view, so reduced motion still reads as a box. */
+  transform: rotateX(-16deg) rotateY(-34deg);
+  animation: cargo-spin var(--cargo-dur, 22s) linear infinite;
+}
+.cargo-face {
+  position: absolute;
+  inset: 0;
+  border: 1px solid var(--scene-edge);
+  background:
+    repeating-linear-gradient(
+      90deg,
+      var(--scene-fill-a) 0 7px,
+      var(--scene-fill-b) 7px 15px
+    );
+  box-shadow: inset 0 0 30px rgba(120, 205, 255, 0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Lid and floor read as plain plates, not corrugated walls. */
+.cargo-face--plate {
+  background: linear-gradient(180deg, rgb(45, 120, 200), rgb(14, 50, 108));
+}
+.cargo-mark {
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: 0.36em;
+  text-indent: 0.36em;
+  color: rgba(226, 244, 255, 0.95);
+  text-shadow: 0 0 18px rgba(120, 205, 255, 0.6);
+}
+
+/* Perspective road receding toward the horizon. */
+.road-3d {
+  position: absolute;
+  inset: auto 0 -14% 0;
+  height: 150%;
+  transform: rotateX(80deg);
+  transform-origin: 50% 100%;
+  background-image:
+    /* road surface */
+    linear-gradient(
+      to bottom,
+      rgba(10, 40, 90, 0) 0%,
+      rgba(12, 48, 104, 0.85) 45%,
+      rgba(14, 56, 120, 0.95) 100%
+    ),
+    /* left edge line */
+    linear-gradient(
+      to right,
+      transparent 0 21%,
+      var(--scene-lane) 21% calc(21% + 2px),
+      transparent calc(21% + 2px) 100%
+    ),
+    /* right edge line */
+    linear-gradient(
+      to right,
+      transparent 0 79%,
+      var(--scene-lane) 79% calc(79% + 2px),
+      transparent calc(79% + 2px) 100%
+    ),
+    /* centre lane dashes */
+    repeating-linear-gradient(
+      to bottom,
+      rgba(160, 225, 255, 0.9) 0 26px,
+      transparent 26px 74px
+    );
+  background-size:
+    100% 100%,
+    100% 100%,
+    100% 100%,
+    4px 74px;
+  background-position:
+    50% 0,
+    50% 0,
+    50% 0,
+    50% 0;
+  background-repeat: no-repeat, no-repeat, no-repeat, repeat-y;
+  animation: road-rush 1.8s linear infinite;
+  mask-image: linear-gradient(
+    to top,
+    #000 0%,
+    rgba(0, 0, 0, 0.85) 30%,
+    transparent 78%
+  );
+}
+
+/* Contact shadow so the container reads as sitting above the road. */
+.cargo-shadow {
+  position: absolute;
+  left: 50%;
+  top: 62%;
+  width: 46%;
+  height: 42px;
+  transform: translate(-50%, -50%);
+  border-radius: 9999px;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(4, 16, 40, 0.75),
+    transparent 70%
+  );
+  filter: blur(6px);
+}
+
+.beacon {
+  animation: beacon 3.2s ease-in-out infinite;
+}
+
+/* Pointer-tracked card tilt; JS sets --rx/--ry, CSS does the rest. */
+.tilt {
+  transform: perspective(1000px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg))
+    translate3d(0, var(--ty, 0px), 0);
+  transform-style: preserve-3d;
+  transition: transform 400ms cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cargo,
+  .cargo-float,
+  .road-3d,
+  .beacon {
+    animation: none !important;
+  }
+  .tilt {
+    transform: none !important;
+    transition: none !important;
+  }
+}
+/* Subtle film grain over video backdrops — hides gradient banding and gives
+   the footage a graded, intentional look rather than raw stock video. */
+.video-grain {
+  opacity: 0.22;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,\
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'>\
+<filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/>\
+<feColorMatrix type='saturate' values='0'/></filter>\
+<rect width='120' height='120' filter='url(%23n)' opacity='0.55'/></svg>");
+  background-size: 160px 160px;
+}
+
+/* Scanning sweep used on dark media panels */
+@keyframes sheen-sweep {
+  0%   { transform: translateX(-120%) skewX(-18deg); opacity: 0; }
+  12%  { opacity: 0.55; }
+  60%  { opacity: 0.35; }
+  100% { transform: translateX(220%) skewX(-18deg); opacity: 0; }
+}
+.sheen {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 28%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(150, 215, 255, 0.28),
+    transparent
+  );
+  animation: sheen-sweep 7s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sheen {
+    animation: none;
+    opacity: 0;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   First-view splash (components/ui/Preloader.tsx).
+
+   Inline vector + CSS only — no image, no video, no extra request — so it
+   paints with the first frame of HTML even on a 2G connection. The real page
+   renders underneath, so this never blocks or delays content.
+   --------------------------------------------------------------------------- */
+@keyframes saf-splash-in {
+  from { opacity: 0; transform: scale(0.9); }
+  to   { opacity: 1; transform: scale(1); }
+}
+@keyframes saf-splash-sweep {
+  to { stroke-dashoffset: -100; }
+}
+@keyframes saf-splash-bar {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(300%); }
+}
+/* Failsafe: with JS disabled nothing would ever dismiss the overlay, so CSS
+   retires it on its own. `forwards` holds the final frame after the delay. */
+@keyframes saf-splash-failsafe {
+  to { visibility: hidden; opacity: 0; }
+}
+
+#saf-splash {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.75rem;
+  background: var(--background);
+  opacity: 1;
+  transition: opacity 420ms cubic-bezier(0.22, 1, 0.36, 1);
+  animation: saf-splash-failsafe 0s linear 3s forwards;
+}
+#saf-splash.is-done {
+  opacity: 0;
+  pointer-events: none;
+}
+/* Paired with the pre-paint script: a returning visitor never sees it at all. */
+.saf-splash-seen #saf-splash {
+  display: none;
+}
+
+.saf-splash-mark {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 7rem;
+  height: 7rem;
+  animation: saf-splash-in 500ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+#saf-splash.is-done .saf-splash-mark {
+  transform: scale(1.04);
+  transition: transform 420ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+.saf-splash-disc {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  /* Spelled out rather than var(--shadow-elevated): drop-shadow() takes no
+     spread value, and that token carries one, which invalidates the filter. */
+  filter: drop-shadow(0 24px 60px rgba(3, 15, 49, 0.4));
+}
+/* stop-color and color are real CSS properties, so they apply from here — a
+   `var()` written into the SVG attribute itself would not be dependable. */
+.saf-splash-stop-0 { stop-color: var(--color-brand-600); }
+.saf-splash-stop-1 { stop-color: var(--color-brand-900); }
+.saf-splash-stop-2 { stop-color: var(--color-brand-950); }
+.saf-splash-ring {
+  color: var(--color-brand-300);
+  stroke-dasharray: 26 74;
+  animation: saf-splash-sweep 1.6s linear infinite;
+}
+.saf-splash-word {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1;
+  color: #fff;
+}
+.saf-splash-name {
+  font-size: 1.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+}
+.saf-splash-sub {
+  margin-top: 0.25rem;
+  font-size: 0.625rem;
+  letter-spacing: 0.22em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.saf-splash-route {
+  width: 10rem;
+  height: 0.75rem;
+  color: var(--color-brand-400);
+}
+
+.saf-splash-bar {
+  position: relative;
+  display: block;
+  width: 7.5rem;
+  height: 2px;
+  overflow: hidden;
+  border-radius: 9999px;
+  background: color-mix(in oklab, var(--color-brand-500) 18%, transparent);
+}
+.saf-splash-bar > i {
+  position: absolute;
+  inset-block: 0;
+  width: 40%;
+  border-radius: 9999px;
+  background: var(--color-brand-500);
+  animation: saf-splash-bar 1.1s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .saf-splash-ring,
+  .saf-splash-bar > i,
+  .route-line {
+    animation: none;
+  }
+  .saf-splash-ring {
+    stroke-dasharray: none;
+    stroke-opacity: 0.5;
+  }
+  .saf-splash-bar > i {
+    width: 100%;
+  }
+}
+
+/* iOS Safari zooms the whole page when a focused control is under 16px.
+   Force 16px on phones regardless of the utility class used. */
+@media (max-width: 640px) {
+  input,
+  select,
+  textarea,
+  .phone-field .PhoneInputInput {
+    font-size: 16px !important;
+  }
+}
+
+.phone-field {
+  --PhoneInputCountryFlag-borderColor: transparent;
+  --PhoneInputCountryFlag-borderColor--focus: transparent;
+  --PhoneInputCountrySelectArrow-color: currentColor;
+  --PhoneInputCountrySelectArrow-opacity: 0.6;
+  --PhoneInputCountrySelectArrow-width: 0.35em;
+  width: 100%;
+  min-width: 0;
+}
+.phone-field .PhoneInput {
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  width: 100%;
+  min-width: 0;
+  height: 3.25rem;
+  border-radius: 0.75rem;
+  border: 1px solid var(--color-border);
+  background: var(--color-background);
+  transition:
+    border-color 0.15s ease,
+    background 0.15s ease,
+    box-shadow 0.15s ease;
+}
+.phone-field .PhoneInput:focus-within {
+  border-color: var(--color-brand-500);
+  background: var(--color-surface);
+  box-shadow: 0 0 0 3px color-mix(in oklab, var(--color-brand-500) 25%, transparent);
+}
+.phone-field .PhoneInputCountry {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0 0.65rem 0 0.85rem;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  flex-shrink: 0;
+  border-right: 1px solid color-mix(in oklab, var(--color-border) 90%, transparent);
+}
+.phone-field .PhoneInputCountryIcon {
+  width: 1.4rem;
+  height: 1rem;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
+  border-radius: 2px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.phone-field .PhoneInputCountrySelect {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+.phone-field .PhoneInputCountrySelectArrow {
+  margin-left: 0.05rem;
+}
+.phone-field .PhoneInputInput {
+  flex: 1;
+  min-width: 0;
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 0 1rem;
+  font: inherit;
+  color: inherit;
+  height: 100%;
+  font-variant-numeric: tabular-nums;
+}
+.phone-field .PhoneInputInput::placeholder {
+  color: color-mix(in oklab, currentColor 55%, transparent);
+}
+
+/* Pill variant — taller, fully rounded (used in inline / hero forms) */
+.phone-field--pill .PhoneInput {
+  height: 3rem;
+  border-radius: 9999px;
+}
+.phone-field--pill .PhoneInputCountry {
+  padding-left: 1rem;
+}
+.phone-field--pill .PhoneInputInput {
+  padding-right: 1.25rem;
+}
+
+/* Dark variant — used on dark/branded backgrounds (newsletter, hero, footer) */
+.phone-field--dark .PhoneInput {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.18);
+  color: #fff;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+.phone-field--dark .PhoneInput:focus-within {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.55);
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.18);
+}
+.phone-field--dark .PhoneInputCountry {
+  border-right-color: rgba(255, 255, 255, 0.2);
+}
+.phone-field--dark .PhoneInputCountryIcon {
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.18);
+}

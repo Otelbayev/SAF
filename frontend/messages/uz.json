@@ -1,0 +1,1154 @@
+{
+  "site": {
+    "name": "SAF Logistics",
+    "tagline": "VAQTIDA"
+  },
+  "seo": {
+    "homeTitle": "Xitoydan O‘zbekistonga fura bilan ekspress yetkazib berish — SAF",
+    "homeDescription": "Xitoydan O‘zbekistonga fura bilan ekspress yetkazib berish — 8–12 kun. Kafolatlangan muddat, sug‘urtalangan yuk, biriktirilgan shaxsiy menejer.",
+    "keywords": [
+      "Xitoydan O‘zbekistonga yuk",
+      "fura bilan yuk tashish",
+      "avtotransport Xitoy O‘zbekiston",
+      "ekspress yetkazib berish Xitoydan",
+      "Guanchjou Toshkent fura",
+      "tez kargo Xitoydan",
+      "B2B logistika O‘zbekiston",
+      "bojxona rasmiylashtirish",
+      "yuk sug‘urtasi",
+      "карго из Китая фурой",
+      "экспресс доставка из Китая",
+      "автоперевозки Китай Узбекистан",
+      "Гуанчжоу Ташкент доставка",
+      "быстрая доставка из Китая",
+      "express trucking China Uzbekistan",
+      "China to Uzbekistan road freight",
+      "Guangzhou Tashkent delivery",
+      "Iu Toshkent yuk",
+      "Yiwu Toshkent fura",
+      "Иу Ташкент доставка",
+      "Yiwu Tashkent delivery",
+      "SAF Logistics",
+      "SAF EXPRESS LOGISTICS",
+      "Saflogistics.uz",
+      "Farrux Mashanpin",
+      "Farrukh Mashanpin",
+      "Фаррух Машанпин"
+    ],
+    "alt": {
+      "logo": "SAF Logistics logotipi — Xitoydan O‘zbekistonga ekspress yuk tashish",
+      "founder": "Farrux Mashanpin — SAF Logistics asoschisi, Guanchjou hub rahbari",
+      "truckPort": "SAF Logistics furasi Xitoy portida yuk ortmoqda — Xitoydan O‘zbekistonga yetkazib berish",
+      "containerYard": "Guanchjoudagi konteyner maydoni — Xitoydan O‘zbekistonga yuk konsolidatsiyasi",
+      "operationsDusk": "Kechki logistika operatsiyalari — SAF Logistics furalarini yuklash",
+      "truckHighway": "Yirik yuk furasi magistralda — Xitoy–O‘zbekiston yo‘nalishi",
+      "truckForest": "Zamonaviy yuk furasi yo‘lda — SAF Logistics avtoparki",
+      "heroPoster": "Oq yuk furasi magistralda — Xitoydan O‘zbekistonga ekspress yetkazib berish",
+      "routePoster": "SAF Logistics furasi Guanchjou–Toshkent marshrutida",
+      "ctaPoster": "Yuk furasi tirkama bilan magistralda — SAF Logistics yetkazib berishi",
+      "fleetPoster": "SAF Logistics fura avtoparki — Xitoy–O‘zbekiston koridori",
+      "guangzhou": "Guanchjou, Xitoy — SAF Logistics skladi joylashgan shahar panoramasi",
+      "yiwu": "Iu, Xitoy — xalqaro ulgurji savdo markazi va SAF Logistics skladi joylashgan shahar"
+    },
+    "video": {
+      "hero": {
+        "title": "Xitoydan O‘zbekistonga fura bilan ekspress yetkazib berish",
+        "description": "SAF Logistics furasi magistralda — Guanchjoudan Toshkentgacha 8–12 kunda ekspress yetkazib berish."
+      },
+      "fleet": {
+        "title": "SAF Logistics fura avtoparki",
+        "description": "Xitoy–O‘zbekiston koridorida ishlaydigan SAF Logistics avtotransport parki."
+      },
+      "route": {
+        "title": "Xitoy → Toshkent marshruti",
+        "description": "Xitoydan O‘zbekistonga faqat avtotransport (fura) orqali eshikdan-eshikgacha yetkazib berish."
+      },
+      "highway": {
+        "title": "Magistralda yuk tashish — SAF Logistics",
+        "description": "Tirkamali yuk furasi yo‘lda: kafolatlangan muddat va sug‘urtalangan yuk."
+      }
+    }
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "tariffs": "Tariflar",
+    "calculator": "Kalkulyator",
+    "route": "Marshrut",
+    "contact": "Aloqa",
+    "about": "Biz haqimizda",
+    "getQuote": "Taklif olish"
+  },
+  "hero": {
+    "badge": "Xitoy → O‘zbekiston ekspress-fura · 2019 yildan",
+    "titleLine1": "Xitoydan O‘zbekistonga",
+    "titleLine2": "fura bilan —",
+    "titleAccent": "aviatransport tezligida",
+    "subtitle": "SAF Logistics — Xitoydagi ikkita o‘z sklad (Guanchjou va Iu) orqali Xitoydan O‘zbekistonga faqat avtotransport (fura) bilan ekspress yetkazib berish. Ekspress tarifda 8–12 kun, kafolatlangan muddat, sug‘urtalangan yuk va biriktirilgan shaxsiy menejer.",
+    "ctaContact": "Bepul taklif olish",
+    "ctaServices": "Tariflarni ko‘rish",
+    "tickerLabel": "Jonli yo‘nalish",
+    "routeLabel": "Guanchjou · Iu → Toshkent",
+    "routeValue": "Eshikdan-eshikgacha",
+    "badgeInsuredValue": "100% sug‘urta",
+    "badgeExpressValue": "8–12 kun",
+    "float1": "500+ muvaffaqiyatli tashuv",
+    "float2": "Chuqur ekspertiza — Guanchjou va Iu",
+    "stats": {
+      "years": "Yillik tajriba",
+      "projects": "Muvaffaqiyatli tashuv",
+      "saved": "Kun tejaladi",
+      "clients": "Doimiy mijozlar"
+    }
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "subtitle": "Xitoy–O‘zbekiston yo‘nalishidagi premium hamkor",
+    "description": "SAF Logistics — butun dunyo bo‘yicha ishlaydigan keng profilli ekspeditor emas. Biz bitta yo‘nalishga ixtisoslashganmiz: Xitoydan O‘zbekistonga fura bilan yetkazib berish. Aynan shuning uchun bizning muddatlarimiz tasodif emas — ular sinovdan o‘tgan marshrutlar va har bosqichdagi nazorat natijasi.",
+    "highlight": {
+      "hub": "Bosh hub",
+      "city": "Guanchjou va Iu, Xitoy",
+      "since": "2019 yildan buyon",
+      "projectsNumber": "500+",
+      "projectsLabel": "o‘z vaqtida yetkazib berilgan yuk"
+    },
+    "features": {
+      "experience": {
+        "title": "5 yillik tajriba",
+        "desc": "Xitoy–O‘zbekiston koridorida ishlab chiqilgan marshrutlar va sinovdan o‘tgan hamkorlar."
+      },
+      "b2b": {
+        "title": "Faqat B2B",
+        "desc": "Importyor kompaniyalar uchun to‘liq fura va yirik partiyalar bilan ishlaymiz."
+      },
+      "hub": {
+        "title": "Xitoyda ikkita o‘z sklad",
+        "desc": "Guanchjou va Iu skladlarida yukni joyida qabul qilish, tekshirish va konsolidatsiya — vositachilarsiz."
+      }
+    }
+  },
+  "philosophy": {
+    "eyebrow": "Brend falsafasi",
+    "title": "SAF VAQTIDA. Har doim. Aniq. Bahonasiz.",
+    "positioning": "Boshqalar yuk tashiydi. Biz biznesni tezlashtiramiz. Siz yetkazib berish uchun emas — tezlik, aylanma va o‘sish uchun investitsiya qilasiz.",
+    "reasonsTitle": "Nega bizning muddatlarimiz tasodif emas",
+    "reasons": {
+      "time": {
+        "title": "Biz yetkazib berishni emas, vaqtni boshqaramiz",
+        "desc": "Asosiy ko‘rsatkichimiz — mijozga necha kun tejab berilgani."
+      },
+      "routes": {
+        "title": "Faqat ishlab chiqilgan marshrutlar",
+        "desc": "Tasodifiy sxemalar yo‘q — faqat sinovdan o‘tgan, hisoblab chiqilgan yo‘nalishlar."
+      },
+      "control": {
+        "title": "Har bosqichda nazorat",
+        "desc": "Kuzatuv, ko‘p bosqichli tekshiruv va og‘ishlarga operativ javob."
+      },
+      "partnership": {
+        "title": "Hamkorlik modeli",
+        "desc": "Biz mijozning aylanmasi o‘sishidan manfaatdormiz, bir martalik jo‘natmadan emas."
+      }
+    }
+  },
+  "services": {
+    "title": "Tariflar",
+    "subtitle": "Faqat avtotransport — fura",
+    "description": "Uchta tarif, bitta yo‘nalish. Narx va muddatni solishtiring va biznesingizga mos darajani tanlang.",
+    "daysLabel": "kun",
+    "popular": "Eng ko‘p tanlanadi",
+    "cta": "Tarifni tanlash",
+    "compare": "Tariflarni solishtiring",
+    "express": {
+      "name": "Ekspress",
+      "price": "Premium ustuvorlik",
+      "description": "G‘ildirakdagi samolyot tezligi — muddat kritik bo‘lgan yuklar uchun.",
+      "features": [
+        "Ustuvor yuklash",
+        "Tezlashtirilgan bojxona rasmiylashtiruvi",
+        "Biriktirilgan shaxsiy menejer",
+        "24/7 monitoring",
+        "Kafolatlangan muddat"
+      ]
+    },
+    "standard": {
+      "name": "Standart",
+      "price": "Optimal nisbat",
+      "description": "Rejali yetkazib berishlar uchun narx va tezlikning optimal nisbati.",
+      "features": [
+        "Faqat avtotransport — fura",
+        "Rejali jo‘natish jadvali",
+        "Yuk kuzatuvi",
+        "Bojxona rasmiylashtirish",
+        "Yuk sug‘urtasi"
+      ]
+    },
+    "econom": {
+      "name": "Ekonom",
+      "price": "Byudjet yechimi",
+      "description": "Shoshilinch bo‘lmagan, rejali yirik partiyalar uchun — ustuvorlik narxda.",
+      "features": [
+        "Yirik partiyalar uchun qulay narx",
+        "Faqat avtotransport — fura",
+        "Yuk kuzatuvi",
+        "Bojxona rasmiylashtirish",
+        "Yuk sug‘urtasi"
+      ]
+    },
+    "compareTable": {
+      "feature": "Xususiyat",
+      "rows": {
+        "delivery": "Yetkazib berish muddati",
+        "transport": "Transport turi",
+        "tracking": "Yuk kuzatuvi",
+        "manager": "Shaxsiy menejer",
+        "customs": "Bojxona xizmati",
+        "insurance": "Yuk sug‘urtasi",
+        "priority": "Ustuvor yuklash"
+      },
+      "truckOnly": "Fura"
+    }
+  },
+  "calculator": {
+    "eyebrow": "Foyda kalkulyatori",
+    "title": "Tezlik sizga qancha pul keltiradi?",
+    "description": "Yetkazib berish muddatini qisqartirish sarmoya aylanmasini tezlashtiradi va yiliga qancha qo‘shimcha foyda berishini hisoblang. Ro‘yxatdan o‘tish shart emas.",
+    "inputs": {
+      "investment": "Bitta partiyaga sarmoya",
+      "investmentHint": "AQSH dollarida, bitta partiyaga",
+      "margin": "O‘rtacha marja",
+      "marginHint": "foizda — bitta partiyadan",
+      "cycle": "Joriy to‘liq sikl",
+      "cycleHint": "kunda — xariddan sotishgacha",
+      "delivery": "Joriy yetkazish muddati",
+      "deliveryHint": "kunda — Xitoydan hozir qancha vaqtda keladi",
+      "tariff": "SAF tarifi"
+    },
+    "results": {
+      "title": "Natija",
+      "saved": "Tejaladigan vaqt",
+      "newCycle": "SAF bilan yangi sikl",
+      "turnsWithout": "Yillik aylanma — SAFsiz",
+      "turnsWith": "Yillik aylanma — SAF bilan",
+      "extraTurns": "Qo‘shimcha aylanmalar",
+      "perBatch": "Bitta partiyadan foyda",
+      "extraProfit": "Yiliga qo‘shimcha foyda",
+      "days": "kun",
+      "turns": "marta",
+      "emphasis": "Va bularning barchasi — sarmoyangizni oshirmasdan. Faqat tezlik hisobiga."
+    },
+    "warning": {
+      "tooFast": "Sizning hozirgi yetkazib berish muddatingiz tanlangan tarifdan ham tez. Tezroq tarifni tanlang yoki haqiqiy muddatni kiriting.",
+      "deliveryTooLong": "Yetkazib berish muddati to‘liq sikldan uzun bo‘lishi mumkin emas — yetkazish siklning bir qismi. Qiymatlarni tekshiring.",
+      "invalid": "Hisoblash uchun barcha maydonlarni noldan katta qiymat bilan to‘ldiring."
+    },
+    "cta": "Buni qanday qilishimizni ko‘rsating",
+    "ctaSecondary": "Menejer bilan muhokama qilish"
+  },
+  "route": {
+    "title": "Guanchjou va Iu → Toshkent",
+    "subtitle": "Ikkita sklad — bitta koridor",
+    "description": "Biz o‘nlab davlatlar bo‘yicha tarqalmaymiz. Butun resursimiz bitta koridorga jamlangan — Xitoydan O‘zbekistonga. Xitoyda ikkita o‘z skladimiz bor: Guanchjou va Iu. Shuning uchun bu yo‘nalishda muddat va narxni eng yaxshi shaklda beramiz.",
+    "originLabel": "Jo‘natish nuqtalari",
+    "destinationLabel": "Yetkazib berish nuqtasi",
+    "origins": {
+      "guangzhou": "Guanchjou, Xitoy",
+      "yiwu": "Iu, Xitoy"
+    },
+    "destination": "Toshkent, O‘zbekiston",
+    "hubTag": "HUB",
+    "transportLabel": "Transport",
+    "transportValue": "Faqat fura",
+    "doorToDoor": "Eshikdan-eshikgacha"
+  },
+  "individual": {
+    "eyebrow": "Individual yondashuv",
+    "title": "Har bir mijoz uchun alohida yechim",
+    "description": "Bizda standart taklif yo‘q. Har bir B2B-mijoz o‘z yukining hajmi va xususiyatidan kelib chiqib alohida shartlar oladi.",
+    "items": {
+      "route": {
+        "title": "Individual marshrut",
+        "desc": "Yukingizning turi va shoshilinchligiga qarab optimal yo‘nalish tuziladi."
+      },
+      "terms": {
+        "title": "Individual xizmat shartlari",
+        "desc": "Qadoqlash, konsolidatsiya va hujjatlar — sizning jarayoningizga moslanadi."
+      },
+      "pricing": {
+        "title": "Individual narx va muddat",
+        "desc": "Hajm va muntazamlikka qarab shaxsiy tarif hisoblab chiqiladi."
+      },
+      "manager": {
+        "title": "Biriktirilgan shaxsiy menejer",
+        "desc": "Bitta aloqa nuqtasi — jo‘natishdan yukni topshirishgacha."
+      }
+    }
+  },
+  "guarantees": {
+    "eyebrow": "Kafolatlar",
+    "title": "Biz nima uchun javob beramiz",
+    "description": "Sifat va muddat bo‘yicha majburiyatlarimiz shartnomada qayd etiladi.",
+    "items": {
+      "deadline": {
+        "title": "Muddat kafolati",
+        "desc": "E’lon qilingan yetkazib berish muddatiga rioya qilinishi kafolatlanadi."
+      },
+      "cargo": {
+        "title": "Yukning saqlanishi",
+        "desc": "Har bir jo‘natma sug‘urtalanadi — yuk to‘liq va shikastsiz yetib boradi."
+      },
+      "transparency": {
+        "title": "Shaffoflik",
+        "desc": "Yashirin to‘lovlarsiz: narx boshida kelishiladi va o‘zgarmaydi."
+      }
+    }
+  },
+  "forWhom": {
+    "eyebrow": "SAF kim uchun",
+    "title": "Agar siz shu ro‘yxatda bo‘lsangiz — bu siz haqingizda",
+    "description": "Biz aylanma tezligi bevosita foydaga aylanadigan biznes bilan ishlaymiz.",
+    "items": [
+      "Tadbirkorlar",
+      "Onlayn-do‘konlar",
+      "Importyorlar va optovik savdogarlar",
+      "Ishlab chiqarish korxonalari",
+      "Kengaytiriladigan loyihalar"
+    ],
+    "note": "Mijozlar cheksiz «ertaga»lardan, bo‘sh va’dalardan va buzilgan muddatlardan charchagan. Biz yetkazib beramiz, javob beramiz, xavflar haqida oldindan ogohlantiramiz va mas’uliyatni o‘z zimmamizga olamiz — bularning barchasi VAQTIDA."
+  },
+  "why": {
+    "title": "Nega aynan bizni tanlashadi?",
+    "subtitle": "Bizning ustunliklarimiz",
+    "items": {
+      "fast": {
+        "title": "Bozordagi eng tez fura",
+        "desc": "Ekspress tarifda 8–12 kun — bu yo‘nalishdagi avtotransport uchun eng yaxshi ko‘rsatkich."
+      },
+      "secure": {
+        "title": "To‘liq xavfsizlik",
+        "desc": "Har bir yuk sug‘urtalangan va har bosqichda nazorat qilinadi."
+      },
+      "price": {
+        "title": "Shaffof narx",
+        "desc": "Narx boshida kelishiladi — yashirin to‘lovlar va qo‘shimcha hisoblar yo‘q."
+      },
+      "support": {
+        "title": "Biriktirilgan menejer",
+        "desc": "24/7 aloqa: har qanday savolga bitta mas’ul odam javob beradi."
+      },
+      "expert": {
+        "title": "Ekspert",
+        "desc": "Xitoy–O‘zbekiston koridori bo‘yicha chuqur tajriba va Guanchjou hamda Iudagi shaxsiy aloqalar."
+      },
+      "tech": {
+        "title": "Har bosqichda kuzatuv",
+        "desc": "Yuk holati va muddatlarni onlayn nazorat qilish tizimi."
+      }
+    }
+  },
+  "founder": {
+    "title": "Asoschi",
+    "name": "Farrux Mashanpin",
+    "role": "Xitoy–O‘zbekiston yo‘nalishi bo‘yicha ekspert",
+    "specialty": "Guanchjou hub rahbari",
+    "bio": "Yillar davomida Xitoy va O‘zbekiston o‘rtasidagi yuk oqimlarini shakllantirgan ekspert. Guanchjou va Iu bozorlarini ichkaridan biladi va har bir mijozga marshrutni shaxsan hisoblab beradi.",
+    "instagram": "Instagram profili"
+  },
+  "ctaBanner": {
+    "title": "Yukingizni bugun yo‘lga qo‘ying",
+    "subtitle": "Bepul konsultatsiya va aniq hisob-kitob uchun biz bilan bog‘laning.",
+    "button": "Taklif olish",
+    "secondary": "Qo‘ng‘iroq qilish"
+  },
+  "contact": {
+    "title": "Biz bilan bog‘laning",
+    "subtitle": "Savollaringiz bo‘lsa, bizga yozing",
+    "description": "Mutaxassislarimiz yukingiz uchun eng mos tarif va muddatni hisoblab berishadi.",
+    "phoneLabel": "Telefon raqamlar",
+    "hoursLabel": "Ish vaqti",
+    "hoursWeek": "24/7 — kecha-yu kunduz",
+    "hoursSun": "Dam olish kunlarisiz",
+    "addressLabel": "Manzil",
+    "address": "Toshkent sh., Abu Sulaymon Banokatiy ko‘chasi, 209",
+    "mapTitle": "Bizni xaritada toping",
+    "mapCta": "Yandex xaritada ochish",
+    "socialLabel": "Ijtimoiy tarmoqlar",
+    "form": {
+      "title": "Bepul ariza qoldiring",
+      "subtitle": "30 daqiqa ichida shaxsiy menejer aloqaga chiqadi.",
+      "name": "Ismingiz",
+      "namePlaceholder": "To‘liq ismingiz",
+      "phone": "Telefon",
+      "phonePlaceholder": "+998 __ ___ __ __",
+      "phoneInvalid": "Telefon raqam noto‘g‘ri. Davlat kodini tanlang va raqamni to‘liq kiriting.",
+      "service": "Qiziqtirgan tarif",
+      "services": {
+        "express": "Ekspress · 8–12 kun",
+        "standard": "Standart · 14–18 kun",
+        "econom": "Ekonom · 20–30 kun",
+        "customs": "Bojxona rasmiylashtirish",
+        "b2b": "B2B hamkorlik"
+      },
+      "message": "Xabar (ixtiyoriy)",
+      "messagePlaceholder": "Yuk hajmi, jo‘natish va manzil haqida qisqacha…",
+      "submit": "Arizani yuborish",
+      "sending": "Yuborilmoqda…",
+      "success": "Arizangiz qabul qilindi. Tez orada bog‘lanamiz!",
+      "error": "Yuborib bo‘lmadi. Iltimos, qayta urinib ko‘ring.",
+      "disclaimer": "Yuborish orqali biz bilan bog‘lanishga rozilik bildirasiz. Ma‘lumotlaringiz uchinchi shaxslarga uzatilmaydi."
+    }
+  },
+  "newsletter": {
+    "title": "Tarif va muddatlar bo‘yicha shaxsiy hisob-kitob oling",
+    "subtitle": "Raqamingizni qoldiring — menejer yukingiz uchun aniq narx va muddatni hisoblab beradi.",
+    "namePlaceholder": "Ismingiz",
+    "phonePlaceholder": "+998 __ ___ __ __",
+    "submit": "Yuborish",
+    "success": "Rahmat! Tez orada bog‘lanamiz.",
+    "error": "Xatolik. Iltimos, qayta urinib ko‘ring."
+  },
+  "footer": {
+    "about": "SAF EXPRESS LOGISTICS — Xitoydan O‘zbekistonga fura bilan ekspress yetkazib berish. VAQTIDA.",
+    "rights": "Barcha huquqlar himoyalangan.",
+    "quickLinks": "Tezkor havolalar",
+    "contacts": "Kontaktlar",
+    "legalLabel": "Yuridik ma’lumot",
+    "follow": "Ijtimoiy tarmoqlar",
+    "madeWith": "Mehr bilan ishlangan",
+    "links": {
+      "tariffs": "Tariflar",
+      "calculator": "Foyda kalkulyatori",
+      "route": "Marshrut",
+      "guarantees": "Kafolatlar",
+      "contact": "Bog‘lanish"
+    }
+  },
+  "theme": {
+    "light": "Yorug‘",
+    "dark": "Qorong‘i",
+    "toggle": "Mavzuni almashtirish"
+  },
+  "pages": {
+    "common": {
+      "breadcrumbHome": "Bosh sahifa",
+      "factsTitle": "Qisqacha ma’lumot",
+      "faqTitle": "Ko‘p so‘raladigan savollar",
+      "relatedTitle": "Shuningdek o‘qing",
+      "ctaTitle": "Yukingiz uchun aniq hisob-kitob kerakmi?",
+      "ctaText": "Yo‘nalish, hajm va muddatni ayting — menejer 24 soat ichida aniq narx va jo‘natish sanasini beradi.",
+      "ctaPrimary": "Bepul taklif olish",
+      "ctaSecondary": "Bosh sahifaga o‘tish",
+      "contactTitle": "Bog‘lanish",
+      "phoneLabel": "Telefon",
+      "emailLabel": "Elektron pochta",
+      "addressLabel": "Manzil",
+      "hoursLabel": "Ish vaqti",
+      "hoursValue": "24/7, dam olish kunlarisiz"
+    },
+    "items": {
+      "chinaFreight": {
+        "title": "Xitoydan O‘zbekistonga yuk tashish — fura bilan, eshikdan-eshikgacha",
+        "description": "SAF Logistics Xitoydan O‘zbekistonga faqat avtotransport bilan yuk tashiydi: Guanchjou va Iudagi o‘z skladlari, 8–12 kundan boshlab muddat, sug‘urta va bojxona rasmiylashtiruvi bitta shartnomada.",
+        "eyebrow": "Asosiy xizmat",
+        "h1": "Xitoydan O‘zbekistonga yuk tashish",
+        "intro": "Xitoydan O‘zbekistonga yuk tashishning uchta yo‘li bor: aviatransport — tez, lekin qimmat; temir yo‘l — arzon, lekin jadvalga bog‘liq; avtotransport — ikkalasining o‘rtasidagi eng amaliy yechim. SAF Logistics faqat uchinchisi bilan shug‘ullanadi va butun resursini bitta koridorga jamlagan.",
+        "sections": [
+          {
+            "h2": "Nima uchun aynan fura",
+            "body": [
+              "Fura yukni Guanchjou yoki Iudagi omborimizda ortadi va Toshkentdagi sizning omboringizda tushiradi. Oraliqda qayta yuklash, konteynerni poyezddan mashinaga o‘tkazish yoki portda navbat kutish yo‘q. Har bir qayta yuklash — bu qo‘shimcha kun, qo‘shimcha xarajat va shikastlanish ehtimoli.",
+              "Temir yo‘l jadval bilan ishlaydi: poyezd to‘lmaguncha jo‘nab ketmaydi. Fura esa yuk tayyor bo‘lgan kuni yo‘lga chiqadi. Muddat kritik bo‘lgan importda bu farq ko‘pincha ikki haftani tashkil qiladi."
+            ]
+          },
+          {
+            "h2": "Jarayon qanday kechadi",
+            "body": [
+              "Birinchi bosqich — Guanchjou yoki Iudagi ofisimiz yukni yetkazib beruvchidan qabul qiladi. Vositachi yo‘q: bizning xodimimiz yukni ko‘zi bilan ko‘radi, miqdorini va qadoqni tekshiradi, zarur bo‘lsa suratga oladi va sizga hisobot yuboradi. Bu bosqichda aniqlangan nomuvofiqlik yo‘lda aniqlanganidan o‘n barobar arzonga tushadi.",
+              "Ikkinchi bosqich — konsolidatsiya va ortish. Agar sizda bir nechta yetkazib beruvchi bo‘lsa, ularning yuklari bitta furada jamlanadi. Uchinchi bosqich — yo‘l va chegara. To‘rtinchisi — bojxona rasmiylashtiruvi va Toshkentda topshirish.",
+              "Har bir bosqichda sizda bitta aloqa nuqtasi bo‘ladi — biriktirilgan menejer. U yukni qidirib telefon qilishingizni kutmaydi, holat o‘zgargani sari o‘zi xabar beradi."
+            ]
+          },
+          {
+            "h2": "Qanday yuklar bilan ishlaymiz",
+            "body": [
+              "Biz B2B segmentda ishlaymiz: to‘liq fura va yirik partiyalar. Tipik mijozimiz — muntazam import qiladigan onlayn-do‘kon, optovik savdogar, ishlab chiqarish korxonasi yoki qurilish materiallari yetkazib beruvchisi.",
+              "Kiyim-kechak, maishiy texnika, ehtiyot qismlar, jihoz va uskunalar, qurilish materiallari, qadoqlash mahsulotlari — bularning barchasi standart nomenklaturamizga kiradi. Xavfli yuklar, tez buziladigan mahsulotlar va maxsus harorat rejimini talab qiladigan tovarlar alohida kelishuv talab qiladi."
+            ]
+          },
+          {
+            "h2": "Muddat va tarif tanlash",
+            "body": [
+              "Uchta tarif bor va ular bir xil yo‘nalishda, bir xil transport turi bilan ishlaydi — farq ustuvorlikda. Ekspress 8–12 kun, Standart 14–18 kun, Ekonom 20–30 kun.",
+              "Tanlash mantig‘i oddiy: agar tovar omborda turmasdan sotilsa va aylanma tezligi foydangizni belgilasa — Ekspress. Agar rejali to‘ldirish bo‘lsa — Standart. Agar yirik partiya oldindan sotib olinayotgan bo‘lsa va sana muhim bo‘lmasa — Ekonom."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Yo‘nalish",
+            "value": "Guanchjou va Iu → Toshkent"
+          },
+          {
+            "label": "Transport turi",
+            "value": "Faqat avtotransport (fura)"
+          },
+          {
+            "label": "Muddat",
+            "value": "8–30 kun, tarifga qarab"
+          },
+          {
+            "label": "Format",
+            "value": "Eshikdan-eshikgacha"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Xitoyning boshqa shaharlaridan yuk olasizmi?",
+            "a": "Bizning hublarimiz Guanchjou va Iuda. Yaqin viloyatlardagi yetkazib beruvchilardan yukni sizga qulay bo‘lgan omborimizga yetkazish tashkil qilinadi — buni menejer bilan alohida kelishasiz."
+          },
+          {
+            "q": "Bir nechta yetkazib beruvchidan yukni birlashtirish mumkinmi?",
+            "a": "Ha, konsolidatsiya bizning standart xizmatimiz. Yetkazib beruvchilaringiz yukni Guanchjou yoki Iudagi omborimizga yuboradi, biz ularni bitta jo‘natmaga yig‘amiz."
+          },
+          {
+            "q": "Minimal hajm bormi?",
+            "a": "Biz to‘liq fura va yirik partiyalar bilan ishlaymiz. Aniq minimal hajm yuk turiga bog‘liq — menejer sizning holatingizga qarab aytadi."
+          },
+          {
+            "q": "Yukni yo‘lda kuzatib borish mumkinmi?",
+            "a": "Ha. Biriktirilgan menejer holat o‘zgarishlari haqida xabar beradi, siz esa istalgan vaqtda joriy holatni so‘rashingiz mumkin."
+          }
+        ]
+      },
+      "express": {
+        "title": "Xitoydan ekspress yetkazib berish — 8–12 kun, kafolatlangan muddat",
+        "description": "Ekspress tarif: Xitoydan (Guanchjou va Iu) Toshkentgacha 8–12 kunda fura bilan. Ustuvor yuklash, tezlashtirilgan bojxona, biriktirilgan menejer va 24/7 monitoring.",
+        "eyebrow": "Tarif",
+        "h1": "Ekspress yetkazib berish: 8–12 kun",
+        "intro": "Ekspress — bu shunchaki «tezroq» degani emas. Bu yukingizning navbatda birinchi turishi: ortishda birinchi, chegarada birinchi, rasmiylashtirishda birinchi. Muddat shartnomada qayd etiladi.",
+        "sections": [
+          {
+            "h2": "Tezlik qayerdan keladi",
+            "body": [
+              "Furaning o‘zi tezroq yurmaydi — tezlik navbatlarni yo‘qotishdan keladi. Ekspress yukni to‘liq fura to‘lishini kutmaymiz, jo‘natish sanasi oldindan belgilanadi va o‘sha kuni yo‘lga chiqadi.",
+              "Bojxona hujjatlari yuk yo‘lda ekanligida tayyorlanadi, chegaraga yetganda paket allaqachon tayyor bo‘ladi. Odatda eng ko‘p kun yo‘qotiladigan bosqich aynan shu — biz uni yo‘lda parallel bajaramiz."
+            ]
+          },
+          {
+            "h2": "Kimga arziydi",
+            "body": [
+              "Ekspress narxi Standartdan yuqori, lekin bu xarajat emas — sarmoya. Agar bitta partiyangiz 50 000 dollar bo‘lsa va marjangiz 25% bo‘lsa, har bir qo‘shimcha aylanma sizga 12 500 dollar keltiradi. Siklni 18 kundan 10 kunga qisqartirish yiliga bir necha qo‘shimcha aylanma degani.",
+              "Mavsumiy tovarlar bilan ishlaydiganlar uchun bu yanada aniq: mavsum boshlanishiga kechikkan partiya ko‘pincha chegirma bilan sotiladi va butun marjani yeb qo‘yadi."
+            ]
+          },
+          {
+            "h2": "Ekspress tarifiga nima kiradi",
+            "body": [
+              "Ustuvor yuklash, tezlashtirilgan bojxona rasmiylashtiruvi, biriktirilgan shaxsiy menejer, 24/7 monitoring va kafolatlangan muddat. Yuk sug‘urtasi va eshikdan-eshikgacha yetkazish barcha tariflar kabi shu yerda ham standart tarzda kiradi.",
+              "Kafolatlangan muddat degani — sana shartnomada yoziladi va biz unga javob beramiz, bahona qidirmaymiz."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Muddat",
+            "value": "8–12 kun"
+          },
+          {
+            "label": "Ustuvorlik",
+            "value": "Yuklashda va rasmiylashtirishda birinchi"
+          },
+          {
+            "label": "Menejer",
+            "value": "Biriktirilgan, shaxsiy"
+          },
+          {
+            "label": "Monitoring",
+            "value": "24/7"
+          }
+        ],
+        "faq": [
+          {
+            "q": "8–12 kun qayerdan qayergacha hisoblanadi?",
+            "a": "Guanchjou yoki Iudagi omborimizdan yuk chiqqan kundan Toshkentda sizga topshirilgan kungacha, bojxona rasmiylashtiruvi bilan birga."
+          },
+          {
+            "q": "Muddat buzilsa nima bo‘ladi?",
+            "a": "Muddat bo‘yicha majburiyat shartnomada qayd etiladi. Kechikish yuzaga kelsa, shartnomadagi shartlar bo‘yicha javob beramiz."
+          },
+          {
+            "q": "Ekspress Standartdan qancha qimmat?",
+            "a": "Farq yuk hajmi, turi va muntazamligiga bog‘liq. Aniq raqamni menejer sizning partiyangiz bo‘yicha hisoblab beradi."
+          },
+          {
+            "q": "Ekspressda ham sug‘urta bormi?",
+            "a": "Ha. Sug‘urta uchala tarifda ham standart tarzda kiradi, qo‘shimcha to‘lov talab qilinmaydi."
+          }
+        ]
+      },
+      "standard": {
+        "title": "Standart yetkazib berish Xitoydan — 14–18 kun, optimal nisbat",
+        "description": "Standart tarif: Xitoy–Toshkent 14–18 kun. Narx va tezlikning muvozanati, rejali jo‘natish jadvali, bojxona va sug‘urta narxga kiritilgan.",
+        "eyebrow": "Tarif",
+        "h1": "Standart yetkazib berish: 14–18 kun",
+        "intro": "Standart — mijozlarimizning ko‘pchiligi tanlaydigan tarif. Sababi oddiy: u Ekspressdan sezilarli arzon, Ekonomdan esa deyarli ikki barobar tez.",
+        "sections": [
+          {
+            "h2": "Rejali import uchun mo‘ljallangan",
+            "body": [
+              "Agar siz omboringizni oldindan tuzilgan jadval bo‘yicha to‘ldirsangiz va tovaringiz to‘satdan tugab qolmasa, Ekspress uchun ortiqcha to‘lashning ma’nosi yo‘q. Standart shu holat uchun yaratilgan.",
+              "Jo‘natishlar rejali jadval bo‘yicha ketadi. Siz keyingi jo‘natish sanasini oldindan bilasiz va xaridlaringizni shunga moslashtirasiz."
+            ]
+          },
+          {
+            "h2": "Ekspressdan farqi nimada",
+            "body": [
+              "Transport bir xil — o‘sha fura, o‘sha marshrut. Farq faqat navbatda: Standart yuk to‘liq fura yig‘ilishini kutadi va bojxona hujjatlari odatiy tartibda tayyorlanadi.",
+              "Xizmat sifatida esa farq yo‘q: yuk kuzatuvi, bojxona rasmiylashtirish va yuk sug‘urtasi — barchasi shu tarifga ham kiradi. Menejer ham biriktiriladi va aloqa 24/7 ishlaydi, faqat yuklashda ekspressdagidek ustuvorlik berilmaydi."
+            ]
+          },
+          {
+            "h2": "Qachon Ekspressga o‘tish kerak",
+            "body": [
+              "Bitta oddiy mezon bor: agar tovar omboringizga yetib kelgunicha allaqachon sotilgan bo‘lsa yoki mavsumga bog‘liq bo‘lsa — Ekspressga o‘ting. Qolgan barcha holatlarda Standart yetarli.",
+              "Foyda kalkulyatorimiz aynan shu qarorni raqamlarda ko‘rsatadi: siklni qisqartirish sizga yiliga qancha qo‘shimcha foyda keltirishini hisoblab beradi."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Muddat",
+            "value": "14–18 kun"
+          },
+          {
+            "label": "Jadval",
+            "value": "Rejali jo‘natish"
+          },
+          {
+            "label": "Bojxona",
+            "value": "Narxga kiritilgan"
+          },
+          {
+            "label": "Sug‘urta",
+            "value": "Narxga kiritilgan"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Standart eng ko‘p tanlanadigan tarifmi?",
+            "a": "Rejali import bilan ishlaydigan mijozlar orasida — ha. Muddat kritik bo‘lgan segmentda esa Ekspress ustunlik qiladi."
+          },
+          {
+            "q": "Jo‘natish sanasini oldindan bilsam bo‘ladimi?",
+            "a": "Ha, jo‘natishlar jadval bo‘yicha ketadi va menejer sizga keyingi sanalarni oldindan beradi."
+          },
+          {
+            "q": "Yo‘l davomida tarifni o‘zgartirish mumkinmi?",
+            "a": "Yuk yo‘lga chiqqandan keyin tarifni o‘zgartirib bo‘lmaydi. Qaror jo‘natishdan oldin qabul qilinadi."
+          },
+          {
+            "q": "Standartda ham eshikdan-eshikgacha ishlaydimi?",
+            "a": "Ha, uchala tarifda ham yuk Xitoydagi omborimizdan Toshkentdagi manzilingizgacha yetkaziladi."
+          }
+        ]
+      },
+      "econom": {
+        "title": "Ekonom yetkazib berish Xitoydan — 20–30 kun, byudjet yechimi",
+        "description": "Ekonom tarif: Xitoy–Toshkent 20–30 kun. Yirik partiyalar va shoshilinch bo‘lmagan rejali xaridlar uchun eng qulay narx.",
+        "eyebrow": "Tarif",
+        "h1": "Ekonom yetkazib berish: 20–30 kun",
+        "intro": "Ekonom — ustuvorlik narxda bo‘lgan holat uchun. Yuk baribir fura bilan va baribir eshikdan-eshikgacha ketadi, faqat jadval erkinroq.",
+        "sections": [
+          {
+            "h2": "Bu tarif kimga to‘g‘ri keladi",
+            "body": [
+              "Yirik partiyani oldindan sotib olib, uni bir necha oy davomida sotadigan biznesga. Bunday holatda bir hafta kechikish hech narsani o‘zgartirmaydi, har bir dollar tejash esa marjaga to‘g‘ridan-to‘g‘ri qo‘shiladi.",
+              "Shuningdek yangi yetkazib beruvchi bilan birinchi sinov partiyasini olayotganlar uchun ham mos: xatarni minimal xarajat bilan sinab ko‘rasiz."
+            ]
+          },
+          {
+            "h2": "Nimadan tejaladi va nimadan yo‘q",
+            "body": [
+              "Tejash jadvaldan keladi: yuk fura to‘lguncha va marshrut optimal shakllanguncha kutadi. Bu 20–30 kunlik oynani beradi.",
+              "Tejash sifatdan kelmaydi. Yuk kuzatuvi, bojxona rasmiylashtirish va yuk sug‘urtasi bu tarifda ham to‘liq saqlanadi — biz sug‘urtasiz yuk tashimaymiz."
+            ]
+          },
+          {
+            "h2": "Muddatni to‘g‘ri rejalashtirish",
+            "body": [
+              "20–30 kunlik oyna bilan ishlaganda xaridni oldindan boshlash kerak. Amaliy maslahat: omboringizdagi qoldiq 30 kunlik sotuvdan pastga tushmasligi kerak, aks holda Ekonomdan Ekspressga shoshilinch o‘tishga majbur bo‘lasiz va tejagan puluingiz yo‘qoladi.",
+              "Muntazam import qilsangiz, jo‘natishlarni bir-birining ustiga qo‘yish mumkin: bittasi yo‘lda ekan, keyingisi tayyorlanadi. Shunda uzun muddat sezilmaydi."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Muddat",
+            "value": "20–30 kun"
+          },
+          {
+            "label": "Kimga",
+            "value": "Yirik, shoshilinch bo‘lmagan partiyalar"
+          },
+          {
+            "label": "Transport",
+            "value": "Faqat fura"
+          },
+          {
+            "label": "Sug‘urta",
+            "value": "Narxga kiritilgan"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Ekonomda yuk xavfsizligi pastroqmi?",
+            "a": "Yo‘q. Transport, marshrut va sug‘urta bir xil. Farq faqat jo‘natish jadvalining erkinligida."
+          },
+          {
+            "q": "30 kundan oshib ketishi mumkinmi?",
+            "a": "E’lon qilingan oyna 20–30 kun. Chegaradagi kutilmagan holatlar yuzaga kelsa, menejer darhol xabar beradi."
+          },
+          {
+            "q": "Kichik partiya uchun Ekonom bormi?",
+            "a": "Biz asosan to‘liq fura va yirik partiyalar bilan ishlaymiz. Hajmingizni menejerga ayting — u mos formatni aytadi."
+          },
+          {
+            "q": "Ekonomdan Ekspressga o‘tsam bo‘ladimi?",
+            "a": "Yuk jo‘nashidan oldin — ha, bemalol. Yo‘lga chiqqandan keyin tarif o‘zgarmaydi."
+          }
+        ]
+      },
+      "route": {
+        "title": "Xitoy–Toshkent yo‘nalishi: Guanchjou va Iu, chegara va muddatlar",
+        "description": "Guanchjou va Iudan Toshkentgacha avtomobil marshruti: 6 000–7 000 km dan ortiq masofa, Xitoy–Qozog‘iston yoki Xitoy–Qirg‘iziston chegarasi, bosqichma-bosqich tushuntirish.",
+        "eyebrow": "Yo‘nalish",
+        "h1": "Guanchjou va Iu → Toshkent: yo‘nalish qanday ishlaydi",
+        "intro": "Bu sahifa bitta savolga javob beradi: fura Xitoydagi skladlarimizdan — Guanchjou va Iudan — Toshkentgacha qanday boradi va vaqt aynan qayerda sarflanadi. Marshrutni tushunish muddatlarni realistik rejalashtirishga yordam beradi.",
+        "sections": [
+          {
+            "h2": "Masofa va umumiy tasvir",
+            "body": [
+              "Guanchjou Xitoyning janubida, Iu esa sharqida — Chjeszyan provinsiyasida joylashgan. Toshkent Markaziy Osiyoda. Avtomobil yo‘li bilan har ikkala nuqtadan masofa 6 000 kilometrdan oshadi: fura Xitoyni shimoli-g‘arbga kesib o‘tadi, so‘ng Sinszyan orqali chegaraga chiqadi.",
+              "Bu masofani bitta fura uzluksiz bosib o‘tadi. Yuk yo‘lda boshqa transportga o‘tkazilmaydi — aynan shu narsa muddatni bashorat qilinadigan qiladi."
+            ]
+          },
+          {
+            "h2": "Nega ikkita jo‘natish nuqtasi",
+            "body": [
+              "Guanchjou — janubiy Xitoyning yirik ishlab chiqarish va savdo markazi: elektronika, mebel, kiyim-kechak, qurilish mollari. Iu esa dunyodagi eng katta mayda ulgurji bozori — aksessuar, o‘yinchoq, kanselyariya, uy-ro‘zg‘or buyumlari shu yerdan chiqadi.",
+              "Ikkala shaharda ham o‘z skladimiz bor. Yetkazib beruvchingiz qayerda bo‘lsa — shu skladga yuk topshiriladi, keraksiz ichki tashish uchun to‘lamaysiz. Tarif, muddat va shartlar ikkala nuqtada bir xil: Ekspress 8–12, Standart 14–18, Ekonom 20–30 kun."
+            ]
+          },
+          {
+            "h2": "Chegara — eng nazorat talab qiladigan bosqich",
+            "body": [
+              "Marshrutga qarab fura Xitoy–Qozog‘iston yoki Xitoy–Qirg‘iziston chegarasidan o‘tadi. Chegara — butun yo‘lda vaqt eng ko‘p yo‘qoladigan nuqta: hujjatdagi bitta nomuvofiqlik bir necha kunga aylanishi mumkin.",
+              "Shuning uchun hujjatlar paketi yuk yo‘lda ekanligidayoq tayyorlanadi va chegaraga yetganda tekshirilgan holda bo‘ladi. Ekspress tarifidagi tezlikning katta qismi aynan shu bosqichdan keladi."
+            ]
+          },
+          {
+            "h2": "Nega faqat bitta yo‘nalish",
+            "body": [
+              "O‘nlab davlat bo‘yicha ishlaydigan ekspeditor har bir yo‘nalishni yuzaki biladi. Biz teskarisini tanladik: bitta koridor — Xitoydan O‘zbekistonga — lekin unda har bir chegara posti, har bir hamkor va har bir mavsumiy tiqilinch bizga tanish.",
+              "2019 yildan buyon shu marshrutda ishlaymiz va 500 dan ortiq yukni o‘z vaqtida yetkazganmiz. Marshrutni bilish — bu kutilmagan holatni oldindan ko‘rish va mijozga u yuzaga kelishidan oldin aytish demak."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Jo‘natish nuqtalari",
+            "value": "Guanchjou va Iu, Xitoy"
+          },
+          {
+            "label": "Yetkazish nuqtasi",
+            "value": "Toshkent, O‘zbekiston"
+          },
+          {
+            "label": "Masofa",
+            "value": "6 000 km dan ortiq"
+          },
+          {
+            "label": "Faoliyat",
+            "value": "2019 yildan buyon"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Fura yo‘lda qayerda to‘xtaydi?",
+            "a": "Rejali dam olish va chegara nazorati nuqtalarida. Yuk qayta yuklanmaydi — u boshidan oxirigacha bitta furada boradi."
+          },
+          {
+            "q": "Qish mavsumida muddat uzayadimi?",
+            "a": "Ob-havo va chegaradagi yuklama muddatga ta’sir qilishi mumkin. Bunday holatlarda menejer oldindan ogohlantiradi."
+          },
+          {
+            "q": "Yukni Iudagi skladga topshirsam bo‘ladimi?",
+            "a": "Ha. Iu va Guanchjou skladlari teng ishlaydi: tarif, muddat va xizmat tarkibi bir xil. Yetkazib beruvchingizga qaysi biri yaqin bo‘lsa, o‘shanisini tanlaysiz — menejer manzilni beradi."
+          },
+          {
+            "q": "Toshkentdan boshqa shaharlarga yetkazasizmi?",
+            "a": "Asosiy yetkazish nuqtasi Toshkent. Boshqa shaharlarga yetkazish alohida kelishiladi."
+          },
+          {
+            "q": "Marshrutni o‘zim tanlashim mumkinmi?",
+            "a": "Marshrut yuk turi, muddat va chegaradagi joriy holatdan kelib chiqib optimal tanlanadi. Talabingiz bo‘lsa menejerga ayting."
+          }
+        ]
+      },
+      "customs": {
+        "title": "Bojxona rasmiylashtiruvi — Xitoydan O‘zbekistonga import",
+        "description": "Xitoydan O‘zbekistonga import qilishda bojxona rasmiylashtiruvi: hujjatlar, bosqichlar va tipik xatolar. SAF Logistics rasmiylashtirishni o‘z zimmasiga oladi.",
+        "eyebrow": "Xizmat",
+        "h1": "Bojxona rasmiylashtiruvi",
+        "intro": "Bojxona — importda kechikishlarning eng ko‘p uchraydigan sababi, lekin deyarli har doim oldindan oldini olish mumkin bo‘lgan sabab. Bu sahifada jarayon va tipik xatolar tushuntiriladi.",
+        "sections": [
+          {
+            "h2": "Rasmiylashtirish nimadan boshlanadi",
+            "body": [
+              "Hammasi hujjatdan boshlanadi. Invoys, qadoqlash varaqasi, shartnoma va transport hujjatlari — bu paket yuk chegaraga yetguncha tayyor va o‘zaro mos bo‘lishi kerak.",
+              "«O‘zaro mos» degani muhim: invoysdagi tovar nomi, miqdori va qiymati qadoqlash varaqasidagi va shartnomadagi ma’lumot bilan bir xil bo‘lishi shart. Amaliyotda kechikishlarning katta qismi aynan shu nomuvofiqlikdan kelib chiqadi."
+            ]
+          },
+          {
+            "h2": "Tovar kodi va to‘lovlar",
+            "body": [
+              "Har bir tovarga tashqi iqtisodiy faoliyat tovar nomenklaturasi bo‘yicha kod beriladi. Bu koddan bojxona to‘lovlarining hajmi kelib chiqadi, shuning uchun kodni to‘g‘ri aniqlash importyor uchun to‘g‘ridan-to‘g‘ri pul masalasi.",
+              "Aniq stavkalar tovar turiga qarab farq qiladi va vaqt o‘tishi bilan o‘zgarib turadi. Shuning uchun biz umumiy foizlar e’lon qilmaymiz — sizning konkret nomenklaturangiz bo‘yicha hisobni menejer beradi."
+            ]
+          },
+          {
+            "h2": "Biz nimani o‘z zimmamizga olamiz",
+            "body": [
+              "Rasmiylashtirish uchala tarifga ham kiritilgan. Biz hujjatlar paketini tayyorlaymiz, tekshiramiz, deklaratsiyani rasmiylashtiramiz va jarayonni oxirigacha olib boramiz.",
+              "Sizdan talab qilinadigan narsa — yetkazib beruvchi bilan tuzilgan hujjatlarni va tovar haqidagi aniq ma’lumotni o‘z vaqtida berish. Qolganini biz qilamiz.",
+              "Muhim eslatma: biz hujjatlarni to‘g‘ri rasmiylashtiramiz, lekin qonun talablarini chetlab o‘tish bilan shug‘ullanmaymiz. Qiymatni kam ko‘rsatish yoki kodni atayin noto‘g‘ri tanlash bo‘yicha so‘rovlarni bajarmaymiz."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Kiritilganmi",
+            "value": "Ha, uchala tarifda"
+          },
+          {
+            "label": "Asosiy hujjatlar",
+            "value": "Invoys, qadoqlash varaqasi, shartnoma"
+          },
+          {
+            "label": "Kod",
+            "value": "TIF TN bo‘yicha aniqlanadi"
+          },
+          {
+            "label": "Tayyorlash vaqti",
+            "value": "Yuk yo‘lda ekanligida"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Bojxona to‘lovlari narxga kiradimi?",
+            "a": "Rasmiylashtirish xizmati kiradi. Davlatga to‘lanadigan bojxona to‘lovlari esa tovaringizning kodi va qiymatiga bog‘liq va alohida hisoblanadi."
+          },
+          {
+            "q": "Sertifikat kerak bo‘ladigan tovarlar-chi?",
+            "a": "Ayrim toifadagi tovarlar uchun qo‘shimcha hujjatlar talab qilinadi. Nomenklaturangizni oldindan ayting — menejer ro‘yxatni beradi."
+          },
+          {
+            "q": "Hujjatlarda xato chiqsa nima bo‘ladi?",
+            "a": "Aksariyat xatolarni biz yuk chegaraga yetguncha aniqlaymiz va tuzatamiz. Aynan shuning uchun hujjatlarni oldindan tekshiramiz."
+          },
+          {
+            "q": "Men o‘zim rasmiylashtirsam bo‘ladimi?",
+            "a": "Ha, agar shunday xohlasangiz. Lekin bu holatda muddat bo‘yicha kafolat siz tomondagi bosqichni qamrab olmaydi."
+          }
+        ]
+      },
+      "insurance": {
+        "title": "Yuk sug‘urtasi — har bir jo‘natma sug‘urtalanadi",
+        "description": "SAF Logistics har bir jo‘natmani sug‘urtalaydi: sug‘urta narxga kiritilgan, alohida to‘lov talab qilinmaydi. Nima qoplanadi va qanday ishlaydi.",
+        "eyebrow": "Kafolat",
+        "h1": "Yuk sug‘urtasi",
+        "intro": "Biz sug‘urtasiz yuk tashimaymiz. Bu qo‘shimcha xizmat emas va alohida sotilmaydi — u uchala tarifning ham bazaviy qismi.",
+        "sections": [
+          {
+            "h2": "Nega sug‘urta majburiy qilingan",
+            "body": [
+              "7 000 kilometrlik yo‘lda xavf har doim nolga teng emas. Ehtimollik past, lekin sodir bo‘lsa zarar mijozning butun partiyasi hajmida bo‘ladi. Bunday xavfni mijozga qoldirish bizning ish modelimizga to‘g‘ri kelmaydi.",
+              "Shuning uchun sug‘urtani ixtiyoriy qo‘shimcha sifatida taklif qilmaymiz — u boshidanoq narxga kiritilgan."
+            ]
+          },
+          {
+            "h2": "Yukning saqlanishi qanday ta’minlanadi",
+            "body": [
+              "Sug‘urta oxirgi himoya chizig‘i, birinchisi emas. Birinchi himoya — Xitoydagi omborimizda yukni qabul qilishdagi tekshiruv: miqdor, qadoq holati va tovarning tashqi ko‘rinishi hujjatlashtiriladi.",
+              "Ikkinchisi — yuk yo‘lda qayta yuklanmasligi. Shikastlanishning katta qismi aynan qayta yuklashda sodir bo‘ladi, bizning sxemamizda esa u yo‘q.",
+              "Uchinchisi — kuzatuv va og‘ishlarga operativ javob. Muammo yuzaga kelganda uni bir necha kundan keyin emas, o‘sha kuni bilamiz."
+            ]
+          },
+          {
+            "h2": "Shartnomadagi majburiyatlar",
+            "body": [
+              "Sug‘urta shartlari, qoplash tartibi va tomonlarning mas’uliyati shartnomada yoziladi. Og‘zaki kelishuv bilan ishlamaymiz.",
+              "Aniq shartlar yuk turi va qiymatiga qarab shakllanadi — menejer sizning partiyangiz bo‘yicha to‘liq tushuntirib beradi."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Narxga kiritilganmi",
+            "value": "Ha, uchala tarifda"
+          },
+          {
+            "label": "Qo‘shimcha to‘lov",
+            "value": "Yo‘q"
+          },
+          {
+            "label": "Qayta yuklash",
+            "value": "Yo‘q — bitta furada"
+          },
+          {
+            "label": "Shartlar",
+            "value": "Shartnomada qayd etiladi"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Sug‘urta uchun alohida to‘lashim kerakmi?",
+            "a": "Yo‘q. U narxga kiritilgan va uchala tarifda ham amal qiladi."
+          },
+          {
+            "q": "Sug‘urta yuk qiymatining qancha qismini qoplaydi?",
+            "a": "Qoplash hajmi yuk turi va e’lon qilingan qiymatga bog‘liq. Aniq shartlar shartnomada belgilanadi."
+          },
+          {
+            "q": "Yuk shikastlangani aniqlansa nima qilaman?",
+            "a": "Darhol biriktirilgan menejeringizga xabar bering. Hujjatlashtirish va keyingi bosqichlarni biz olib boramiz."
+          },
+          {
+            "q": "Qimmatbaho yuk uchun qo‘shimcha shartlar bormi?",
+            "a": "Yuqori qiymatli partiyalar uchun shartlar alohida kelishiladi. Qiymatni oldindan ayting."
+          }
+        ]
+      },
+      "pricing": {
+        "title": "Xitoydan O‘zbekistonga yuk tashish narxi qanday shakllanadi",
+        "description": "Yetkazib berish narxiga nima ta’sir qiladi: hajm, og‘irlik, tarif, nomenklatura va muntazamlik. Narxni hisoblash mantiqi va bepul taklif olish tartibi.",
+        "eyebrow": "Narxlar",
+        "h1": "Narx qanday shakllanadi",
+        "intro": "Bizda tayyor narxlar jadvali yo‘q va bu ataylab shunday. Bir xil hajmdagi ikkita yuk butunlay boshqa narxga tushishi mumkin — quyida nima uchun shundayligi tushuntirilgan.",
+        "sections": [
+          {
+            "h2": "Narxga ta’sir qiladigan beshta omil",
+            "body": [
+              "Birinchisi — hajm va og‘irlik nisbati. Fura ikki chegara bilan cheklanadi: sig‘im va tonnaj. Yengil, lekin katta hajmli yuk sig‘imni to‘ldiradi; og‘ir va ixcham yuk tonnajni. Narx qaysi biri avval tugashiga qarab hisoblanadi.",
+              "Ikkinchisi — tarif. Ekspress, Standart va Ekonom o‘rtasidagi farq aynan shu yerda ko‘rinadi.",
+              "Uchinchisi — nomenklatura. Tovarning turi bojxona rasmiylashtiruvining murakkabligini va zarur hujjatlar ro‘yxatini belgilaydi.",
+              "To‘rtinchisi — konsolidatsiya kerakmi. Bitta yetkazib beruvchidan to‘liq fura bilan bitta manzilga ketayotgan yuk arzonroq tushadi.",
+              "Beshinchisi — muntazamlik. Doimiy mijozlar uchun shaxsiy tarif hisoblab chiqiladi va u bir martalik jo‘natmadan sezilarli farq qiladi."
+            ]
+          },
+          {
+            "h2": "Narx nega oldindan aytilmaydi",
+            "body": [
+              "Saytda «kilogrammiga shuncha» deb yozib qo‘yish oson, lekin bunday raqam deyarli har doim haqiqiy hisobdan farq qiladi. Mijoz esa oxirida kutilmagan qo‘shimcha to‘lovga duch keladi.",
+              "Bizning yondashuvimiz boshqacha: narx boshida kelishiladi va o‘zgarmaydi. Yashirin to‘lov yo‘q. Buning uchun esa hisobni sizning aniq yukingiz bo‘yicha qilish kerak."
+            ]
+          },
+          {
+            "h2": "Tejashning eng katta manbasi — vaqt",
+            "body": [
+              "Ko‘pchilik importyor faqat yetkazib berish tarifini solishtiradi va aylanma tezligini hisobga olmaydi. Aslida esa siklni qisqartirish odatda tarifdagi farqdan ancha ko‘p pul keltiradi.",
+              "Bosh sahifadagi foyda kalkulyatori shuni raqamlarda ko‘rsatadi: sarmoyangiz, marjangiz va joriy siklingizni kiritsangiz, tezlik yiliga qancha qo‘shimcha foyda berishini hisoblaydi."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Narxlar jadvali",
+            "value": "Yo‘q — har bir yuk alohida hisoblanadi"
+          },
+          {
+            "label": "Yashirin to‘lovlar",
+            "value": "Yo‘q"
+          },
+          {
+            "label": "Taklif muddati",
+            "value": "Odatda 24 soat ichida"
+          },
+          {
+            "label": "Doimiy mijozlar",
+            "value": "Shaxsiy tarif"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Taxminiy narxni telefonda aytasizmi?",
+            "a": "Yo‘nalish, hajm, og‘irlik va tovar turini aytsangiz — menejer taxminiy oraliqni aytadi, aniq raqamni esa hisobdan keyin beradi."
+          },
+          {
+            "q": "Narx keyinchalik o‘zgarishi mumkinmi?",
+            "a": "Kelishilgan narx o‘zgarmaydi. O‘zgarish faqat siz yukning hajmi yoki tarkibini o‘zgartirsangiz yuzaga keladi."
+          },
+          {
+            "q": "To‘lov qanday amalga oshiriladi?",
+            "a": "To‘lov tartibi shartnomada belgilanadi va mijozning formatiga qarab kelishiladi."
+          },
+          {
+            "q": "Hisob-kitob uchun nima kerak?",
+            "a": "Tovar turi, taxminiy hajm va og‘irlik, kerakli muddat va yetkazib beruvchining joylashuvi."
+          }
+        ]
+      },
+      "faq": {
+        "title": "Savol-javob — Xitoydan yuk tashish bo‘yicha eng ko‘p so‘raladiganlar",
+        "description": "Xitoydan O‘zbekistonga yuk tashish bo‘yicha eng ko‘p beriladigan savollarga javoblar: muddat, narx, bojxona, sug‘urta, hujjatlar va jarayon.",
+        "eyebrow": "Ma’lumot",
+        "h1": "Savol-javob",
+        "intro": "Menejerlarimiz kuniga eshitadigan savollar bir joyga to‘plangan. Agar javobini topmasangiz — telefon qiling, biz to‘g‘ridan-to‘g‘ri javob beramiz.",
+        "sections": [
+          {
+            "h2": "Boshlashdan oldin bilish kerak bo‘lgan uchta narsa",
+            "body": [
+              "Birinchidan, biz faqat bitta yo‘nalishda ishlaymiz: Xitoy → O‘zbekiston, faqat avtotransport bilan. Boshqa yo‘nalish yoki transport turi bo‘yicha so‘rovlarni bajarmaymiz.",
+              "Ikkinchidan, biz B2B segmentidamiz — to‘liq fura va yirik partiyalar. Jismoniy shaxslarning kichik posilkalari bilan ishlamaymiz.",
+              "Uchinchidan, bojxona rasmiylashtiruvi va yuk sug‘urtasi uchala tarifga ham kiritilgan. Bular alohida sotiladigan qo‘shimcha emas."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Yo‘nalish",
+            "value": "Faqat Xitoy → O‘zbekiston"
+          },
+          {
+            "label": "Segment",
+            "value": "B2B, yirik partiyalar"
+          },
+          {
+            "label": "Transport",
+            "value": "Faqat fura"
+          },
+          {
+            "label": "Javob vaqti",
+            "value": "24/7"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Yetkazib berish qancha vaqt oladi?",
+            "a": "Tarifga bog‘liq: Ekspress 8–12 kun, Standart 14–18 kun, Ekonom 20–30 kun. Muddat Xitoydagi omborimizdan Toshkentda topshirilgunicha hisoblanadi."
+          },
+          {
+            "q": "Narx qanday hisoblanadi?",
+            "a": "Hajm va og‘irlik nisbati, tanlangan tarif, tovar nomenklaturasi, konsolidatsiya zarurati va jo‘natishlar muntazamligi asosida. Tayyor jadval yo‘q — har bir yuk alohida hisoblanadi."
+          },
+          {
+            "q": "Bojxona rasmiylashtiruvi kimning zimmasida?",
+            "a": "Bizning. Hujjatlar paketini tayyorlaymiz, tekshiramiz va deklaratsiyani rasmiylashtiramiz. Bu uchala tarifga ham kiritilgan."
+          },
+          {
+            "q": "Yuk sug‘urtalanadimi?",
+            "a": "Ha, har bir jo‘natma sug‘urtalanadi va bu narxga kiritilgan. Sug‘urtasiz yuk tashimaymiz."
+          },
+          {
+            "q": "Yuk yo‘lda qayta yuklanadimi?",
+            "a": "Yo‘q. Yuk Guanchjou yoki Iuda ortiladi va Toshkentda tushiriladi — oraliqda boshqa transportga o‘tkazilmaydi."
+          },
+          {
+            "q": "Bir nechta yetkazib beruvchidan yukni birlashtira olasizmi?",
+            "a": "Ha. Yetkazib beruvchilaringiz yukni Guanchjou yoki Iudagi omborimizga yuboradi, biz konsolidatsiya qilamiz."
+          },
+          {
+            "q": "Yukni kuzatib borish mumkinmi?",
+            "a": "Ha. Sizga biriktirilgan menejer holat o‘zgarishlari haqida o‘zi xabar beradi va istalgan paytda so‘rasangiz joriy holatni aytadi."
+          },
+          {
+            "q": "Xitoydagi yetkazib beruvchini tekshira olasizmi?",
+            "a": "Guanchjou va Iudagi ofislarimiz yukni qabul qilishda miqdor va qadoqni tekshiradi hamda hisobot yuboradi. Yetkazib beruvchini to‘liq tekshirish alohida kelishiladi."
+          },
+          {
+            "q": "Shartnoma tuziladimi?",
+            "a": "Ha. Muddat, narx, sug‘urta shartlari va tomonlarning mas’uliyati shartnomada qayd etiladi."
+          },
+          {
+            "q": "Qanday boshlash kerak?",
+            "a": "Telefon qiling yoki bosh sahifadagi shakl orqali so‘rov qoldiring. Tovar turi, taxminiy hajm va kerakli muddatni ayting — menejer hisob va jo‘natish sanasini beradi."
+          }
+        ]
+      },
+      "company": {
+        "title": "SAF Logistics kompaniyasi — Xitoy–O‘zbekiston yo‘nalishida 2019 yildan",
+        "description": "SAF Logistics haqida: Guanchjou va Iudagi o‘z skladlari, 500+ o‘z vaqtida yetkazilgan yuk, asoschisi Farrux Mashanpin, faqat bitta yo‘nalishga ixtisoslashgan ekspeditor.",
+        "eyebrow": "Kompaniya",
+        "h1": "SAF Logistics haqida",
+        "intro": "SAF — «VAQTIDA» degan bitta va’da ustiga qurilgan kompaniya. Bu marketing shiori emas, ish modelining o‘zi: biz o‘zimizni tashilgan tonnalar bilan emas, mijozga tejab berilgan kunlar bilan o‘lchaymiz.",
+        "sections": [
+          {
+            "h2": "Biz nima qilmaymiz",
+            "body": [
+              "Kompaniya haqidagi sahifalar odatda «biz hamma narsani qila olamiz» deb boshlanadi. Biz teskarisidan boshlaymiz, chunki ixtisoslashuvimiz aynan shunda.",
+              "Biz o‘nlab davlat bo‘yicha ishlamaymiz. Aviatransport va temir yo‘l bilan shug‘ullanmaymiz. Jismoniy shaxslarning kichik posilkalarini tashimaymiz. Va yukni sug‘urtasiz jo‘natmaymiz.",
+              "Qolgan hamma narsa — Xitoydan O‘zbekistonga fura bilan yetkazib berish — bizning kundalik ishimiz va biz uni chuqur bilamiz."
+            ]
+          },
+          {
+            "h2": "Xitoydagi o‘z skladlarimiz",
+            "body": [
+              "Ko‘p ekspeditor Xitoyda mahalliy vositachi orqali ishlaydi. Bu arzonroq, lekin nazoratni yo‘qotadi: yukni hech kim ko‘zi bilan ko‘rmaydi, muammo esa u O‘zbekistonga yetib kelgandan keyin ma’lum bo‘ladi.",
+              "Xitoydagi ofis va skladlarimiz — Guanchjou va Iuda — o‘zimizniki. Xodimimiz yukni qabul qiladi, tekshiradi, konsolidatsiya qiladi va ortishni nazorat qiladi. Muammo yuzaga kelsa, u Xitoyda hal qilinadi — 7 000 kilometrdan keyin emas."
+            ]
+          },
+          {
+            "h2": "Raqamlar va tarix",
+            "body": [
+              "2019 yildan buyon Xitoy–O‘zbekiston koridorida ishlaymiz. Shu davrda 500 dan ortiq yuk o‘z vaqtida yetkazilgan.",
+              "Kompaniya asoschisi — Farrux Mashanpin. U Guanchjoudagi ofisga bevosita rahbarlik qiladi, ya’ni Xitoy tomonidagi jarayon egasi to‘g‘ridan-to‘g‘ri kompaniya rahbaridir.",
+              "Yuridik nom — SAF EXPRESS LOGISTICS MChJ. Ofis Toshkentda, Abu Sulaymon Banokatiy ko‘chasi, 209-uy."
+            ]
+          },
+          {
+            "h2": "Kim bilan ishlaymiz",
+            "body": [
+              "Tadbirkorlar, onlayn-do‘konlar, importyorlar va optovik savdogarlar, ishlab chiqarish korxonalari hamda kengayish bosqichidagi loyihalar.",
+              "Umumiy jihat bitta: bu bizneslarda aylanma tezligi bevosita foydaga aylanadi. Aynan shunday mijozlar uchun bizning modelimiz eng ko‘p qiymat beradi."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Faoliyat boshlangan",
+            "value": "2019 yil"
+          },
+          {
+            "label": "Yetkazilgan yuklar",
+            "value": "500+ o‘z vaqtida"
+          },
+          {
+            "label": "Xitoydagi hub",
+            "value": "Guanchjou va Iu — o‘z skladlari"
+          },
+          {
+            "label": "Asoschi",
+            "value": "Farrux Mashanpin"
+          }
+        ],
+        "faq": [
+          {
+            "q": "SAF qaysi yo‘nalishlarda ishlaydi?",
+            "a": "Faqat bitta: Xitoy → O‘zbekiston. Jo‘natish Guanchjou va Iudagi skladlarimizdan, faqat avtotransport bilan."
+          },
+          {
+            "q": "Xitoyda o‘z ofisingiz bormi?",
+            "a": "Ha, Guanchjou va Iuda. Yukni joyida qabul qilish, tekshirish va konsolidatsiya vositachilarsiz amalga oshiriladi."
+          },
+          {
+            "q": "Jismoniy shaxslar bilan ishlaysizmi?",
+            "a": "Bizning format — B2B: to‘liq fura va yirik partiyalar. Kichik posilkalar bilan shug‘ullanmaymiz."
+          },
+          {
+            "q": "Ofisingizga borib gaplashsam bo‘ladimi?",
+            "a": "Ha. Toshkent, Abu Sulaymon Banokatiy ko‘chasi, 209. Aloqa 24/7 ishlaydi, ofisga tashrifni esa menejer bilan oldindan kelishib olasiz."
+          }
+        ]
+      }
+    }
+  }
+}

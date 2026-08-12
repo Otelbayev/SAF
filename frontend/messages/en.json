@@ -1,0 +1,1151 @@
+{
+  "site": {
+    "name": "SAF Logistics",
+    "tagline": "ON TIME"
+  },
+  "seo": {
+    "homeTitle": "SAF Logistics — express truck delivery from China to Uzbekistan",
+    "homeDescription": "Express truck delivery from China to Uzbekistan — 8–12 days. Guaranteed transit times, insured cargo, a dedicated personal manager.",
+    "keywords": [
+      "China to Uzbekistan road freight",
+      "express trucking China Uzbekistan",
+      "truck delivery from China",
+      "Guangzhou Tashkent delivery",
+      "fast cargo from China",
+      "B2B logistics Uzbekistan",
+      "customs clearance Uzbekistan",
+      "cargo insurance",
+      "Xitoydan O‘zbekistonga yuk",
+      "fura bilan yuk tashish",
+      "ekspress yetkazib berish Xitoydan",
+      "доставка из Китая в Узбекистан",
+      "автоперевозки Китай Узбекистан",
+      "Гуанчжоу Ташкент доставка",
+      "Yiwu Tashkent delivery",
+      "Yiwu Tashkent cargo",
+      "Иу Ташкент доставка",
+      "Iu Toshkent yuk",
+      "SAF Logistics",
+      "SAF EXPRESS LOGISTICS",
+      "Saflogistics.uz",
+      "Farrukh Mashanpin",
+      "Farrux Mashanpin",
+      "Фаррух Машанпин"
+    ],
+    "alt": {
+      "logo": "SAF Logistics logo — express road freight from China to Uzbekistan",
+      "founder": "Farrukh Mashanpin — founder of SAF Logistics, head of the Guangzhou hub",
+      "truckPort": "SAF Logistics truck loading at a Chinese port — China to Uzbekistan delivery",
+      "containerYard": "Container yard in Guangzhou — cargo consolidation from China to Uzbekistan",
+      "operationsDusk": "Evening logistics operations — loading SAF Logistics trucks",
+      "truckHighway": "Heavy cargo truck on the highway — China–Uzbekistan corridor",
+      "truckForest": "Modern cargo truck en route — SAF Logistics fleet",
+      "heroPoster": "White semi truck on the highway — express delivery from China to Uzbekistan",
+      "routePoster": "SAF Logistics truck on the Guangzhou–Tashkent route",
+      "ctaPoster": "Cargo truck with trailer on the highway — SAF Logistics delivery",
+      "fleetPoster": "SAF Logistics truck fleet — China–Uzbekistan corridor",
+      "guangzhou": "Guangzhou, China — city panorama where the SAF Logistics warehouse is located",
+      "yiwu": "Yiwu, China — the international wholesale market city hosting the SAF Logistics warehouse"
+    },
+    "video": {
+      "hero": {
+        "title": "Express truck delivery from China to Uzbekistan",
+        "description": "A SAF Logistics truck on the highway — express delivery from Guangzhou to Tashkent in 8–12 days."
+      },
+      "fleet": {
+        "title": "SAF Logistics truck fleet",
+        "description": "The SAF Logistics road fleet working the China–Uzbekistan corridor."
+      },
+      "route": {
+        "title": "China → Tashkent route",
+        "description": "China to Uzbekistan by truck only, door to door."
+      },
+      "highway": {
+        "title": "Road freight on the highway — SAF Logistics",
+        "description": "A cargo truck with trailer en route: guaranteed transit times and insured cargo."
+      }
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "tariffs": "Tariffs",
+    "calculator": "Calculator",
+    "route": "Route",
+    "contact": "Contact",
+    "about": "About",
+    "getQuote": "Get a quote"
+  },
+  "hero": {
+    "badge": "China → Uzbekistan express trucking · since 2019",
+    "titleLine1": "From China to Uzbekistan",
+    "titleLine2": "by truck —",
+    "titleAccent": "at air freight speed",
+    "subtitle": "SAF Logistics delivers from China to Uzbekistan by truck only, through two own warehouses in China: Guangzhou and Yiwu. Express tariff — 8–12 days, guaranteed transit time, insured cargo and a dedicated personal manager.",
+    "ctaContact": "Get a free quote",
+    "ctaServices": "See tariffs",
+    "tickerLabel": "Live corridor",
+    "routeLabel": "Guangzhou · Yiwu → Tashkent",
+    "routeValue": "Door to door",
+    "badgeInsuredValue": "100% insured",
+    "badgeExpressValue": "8–12 days",
+    "float1": "500+ shipments delivered",
+    "float2": "Deep expertise — Guangzhou and Yiwu",
+    "stats": {
+      "years": "Years of experience",
+      "projects": "Shipments delivered",
+      "saved": "Days saved",
+      "clients": "Recurring clients"
+    }
+  },
+  "about": {
+    "title": "About us",
+    "subtitle": "Premium partner on the China–Uzbekistan corridor",
+    "description": "SAF Logistics is not a broad-profile forwarder covering the whole world. We specialise in a single corridor: China to Uzbekistan by truck. That is exactly why our transit times are no accident — they are the result of proven routes and control at every stage.",
+    "highlight": {
+      "hub": "Main hub",
+      "city": "Guangzhou & Yiwu, China",
+      "since": "since 2019",
+      "projectsNumber": "500+",
+      "projectsLabel": "shipments delivered on time"
+    },
+    "features": {
+      "experience": {
+        "title": "5 years of experience",
+        "desc": "Proven routes and vetted partners across the China–Uzbekistan corridor."
+      },
+      "b2b": {
+        "title": "B2B only",
+        "desc": "We work with importing companies: full truckloads and large consignments."
+      },
+      "hub": {
+        "title": "Two own warehouses in China",
+        "desc": "Cargo received, inspected and consolidated on site in Guangzhou and Yiwu — no middlemen."
+      }
+    }
+  },
+  "philosophy": {
+    "eyebrow": "Brand philosophy",
+    "title": "SAF ON TIME. Always. Precisely. No excuses.",
+    "positioning": "Others move cargo. We accelerate business. You are not investing in delivery — you are investing in speed, turnover and growth.",
+    "reasonsTitle": "Why our transit times are no accident",
+    "reasons": {
+      "time": {
+        "title": "We manage time, not just delivery",
+        "desc": "Our key metric is how many days the client has saved."
+      },
+      "routes": {
+        "title": "Proven routes only",
+        "desc": "No improvised schemes — only tested, calculated corridors."
+      },
+      "control": {
+        "title": "Control at every stage",
+        "desc": "Tracking, multi-step verification and fast response to any deviation."
+      },
+      "partnership": {
+        "title": "A partnership model",
+        "desc": "We are invested in the growth of your turnover, not in a one-off shipment."
+      }
+    }
+  },
+  "services": {
+    "title": "Tariffs",
+    "subtitle": "Road freight only — by truck",
+    "description": "Three tariffs, one corridor. Compare price and transit time, then pick the level that fits your business.",
+    "daysLabel": "days",
+    "popular": "Most chosen",
+    "cta": "Choose this tariff",
+    "compare": "Compare the tariffs",
+    "express": {
+      "name": "Express",
+      "price": "Premium priority",
+      "description": "A plane on wheels — for cargo where the deadline is critical.",
+      "features": [
+        "Priority loading",
+        "Accelerated customs clearance",
+        "Dedicated personal manager",
+        "24/7 monitoring",
+        "Guaranteed transit time"
+      ]
+    },
+    "standard": {
+      "name": "Standard",
+      "price": "Optimal balance",
+      "description": "The best price-to-speed ratio for planned deliveries.",
+      "features": [
+        "Road freight only — by truck",
+        "Scheduled departures",
+        "Cargo tracking",
+        "Customs clearance",
+        "Cargo insurance"
+      ]
+    },
+    "econom": {
+      "name": "Econom",
+      "price": "Budget solution",
+      "description": "For non-urgent, planned bulk consignments — price is the priority.",
+      "features": [
+        "Competitive rate on bulk consignments",
+        "Road freight only — by truck",
+        "Cargo tracking",
+        "Customs clearance",
+        "Cargo insurance"
+      ]
+    },
+    "compareTable": {
+      "feature": "Feature",
+      "rows": {
+        "delivery": "Transit time",
+        "transport": "Transport mode",
+        "tracking": "Cargo tracking",
+        "manager": "Personal manager",
+        "customs": "Customs clearance",
+        "insurance": "Cargo insurance",
+        "priority": "Priority loading"
+      },
+      "truckOnly": "Truck"
+    }
+  },
+  "calculator": {
+    "eyebrow": "Profit calculator",
+    "title": "How much money will speed bring you?",
+    "description": "Calculate how much extra annual profit faster delivery brings by turning your capital over more often. No sign-up required.",
+    "inputs": {
+      "investment": "Investment per batch",
+      "investmentHint": "in US dollars, per consignment",
+      "margin": "Average margin",
+      "marginHint": "in percent — per consignment",
+      "cycle": "Current full cycle",
+      "cycleHint": "in days — from purchase to sale",
+      "delivery": "Current delivery time",
+      "deliveryHint": "in days — how long shipping from China takes you now",
+      "tariff": "SAF tariff"
+    },
+    "results": {
+      "title": "Result",
+      "saved": "Time saved",
+      "newCycle": "New cycle with SAF",
+      "turnsWithout": "Turns per year — without SAF",
+      "turnsWith": "Turns per year — with SAF",
+      "extraTurns": "Additional turns",
+      "perBatch": "Profit per consignment",
+      "extraProfit": "Additional profit per year",
+      "days": "days",
+      "turns": "times",
+      "emphasis": "And all of it — without increasing your investment. Purely through speed."
+    },
+    "warning": {
+      "tooFast": "Your current delivery is already faster than the selected tariff. Pick a faster tariff or enter your real transit time.",
+      "deliveryTooLong": "Delivery time cannot be longer than the full cycle — delivery is one leg inside it. Check the values.",
+      "invalid": "Fill in every field with a value greater than zero to calculate."
+    },
+    "cta": "Show me how you do it",
+    "ctaSecondary": "Discuss with a manager"
+  },
+  "route": {
+    "title": "Guangzhou & Yiwu → Tashkent",
+    "subtitle": "Two warehouses — one corridor",
+    "description": "We do not spread ourselves across dozens of countries. Every resource is focused on a single corridor — China to Uzbekistan. We run two own warehouses in China: Guangzhou and Yiwu. That is why we deliver the best transit times and prices on this route.",
+    "originLabel": "Departure points",
+    "destinationLabel": "Delivery point",
+    "origins": {
+      "guangzhou": "Guangzhou, China",
+      "yiwu": "Yiwu, China"
+    },
+    "destination": "Tashkent, Uzbekistan",
+    "hubTag": "HUB",
+    "transportLabel": "Transport",
+    "transportValue": "Truck only",
+    "doorToDoor": "Door to door"
+  },
+  "individual": {
+    "eyebrow": "Individual approach",
+    "title": "A separate solution for every client",
+    "description": "We have no off-the-shelf offer. Every B2B client gets its own terms based on the volume and nature of the cargo.",
+    "items": {
+      "route": {
+        "title": "Individual routing",
+        "desc": "The optimal corridor is built around your cargo type and urgency."
+      },
+      "terms": {
+        "title": "Individual service terms",
+        "desc": "Packing, consolidation and paperwork — shaped around your process."
+      },
+      "pricing": {
+        "title": "Individual price and transit time",
+        "desc": "A personal rate is calculated from your volume and shipping frequency."
+      },
+      "manager": {
+        "title": "Dedicated personal manager",
+        "desc": "One point of contact — from dispatch to handover."
+      }
+    }
+  },
+  "guarantees": {
+    "eyebrow": "Guarantees",
+    "title": "What we are accountable for",
+    "description": "Our quality and transit-time commitments are fixed in the contract.",
+    "items": {
+      "deadline": {
+        "title": "Transit time guarantee",
+        "desc": "We guarantee the delivery window we quote."
+      },
+      "cargo": {
+        "title": "Cargo integrity",
+        "desc": "Every shipment is insured — cargo arrives complete and undamaged."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "desc": "No hidden fees: the price is agreed up front and does not change."
+      }
+    }
+  },
+  "forWhom": {
+    "eyebrow": "Who SAF is for",
+    "title": "If you are on this list — this is about you",
+    "description": "We work with businesses where turnover speed converts directly into profit.",
+    "items": [
+      "Entrepreneurs",
+      "Online stores",
+      "Importers and wholesalers",
+      "Manufacturing companies",
+      "Scaling projects"
+    ],
+    "note": "Clients are tired of endless “tomorrows”, empty promises and missed deadlines. We deliver, we answer, we flag risks in advance and we take responsibility — all of it ON TIME."
+  },
+  "why": {
+    "title": "Why clients choose us",
+    "subtitle": "Our advantages",
+    "items": {
+      "fast": {
+        "title": "The fastest truck on the market",
+        "desc": "8–12 days on the express tariff — the best road-freight figure on this corridor."
+      },
+      "secure": {
+        "title": "Full security",
+        "desc": "Every shipment is insured and controlled at every stage."
+      },
+      "price": {
+        "title": "Transparent pricing",
+        "desc": "The price is agreed up front — no hidden fees or surprise charges."
+      },
+      "support": {
+        "title": "Dedicated manager",
+        "desc": "24/7 contact: one accountable person answers every question."
+      },
+      "expert": {
+        "title": "Expert",
+        "desc": "Deep experience on the China–Uzbekistan corridor and personal connections in Guangzhou and Yiwu."
+      },
+      "tech": {
+        "title": "Tracking at every stage",
+        "desc": "Online control of cargo status and transit-time compliance."
+      }
+    }
+  },
+  "founder": {
+    "title": "Founder",
+    "name": "Farrukh Mashanpin",
+    "role": "Expert on the China–Uzbekistan corridor",
+    "specialty": "Head of the Guangzhou hub",
+    "bio": "An expert who has shaped cargo flows between China and Uzbekistan for years. He knows the Guangzhou and Yiwu markets from the inside and personally calculates the route for every client.",
+    "instagram": "Instagram profile"
+  },
+  "ctaBanner": {
+    "title": "Put your cargo on the road today",
+    "subtitle": "Contact us for a free consultation and an exact quote.",
+    "button": "Get a quote",
+    "secondary": "Call us"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "Have questions? Write to us",
+    "description": "Our specialists will calculate the right tariff and transit time for your cargo.",
+    "phoneLabel": "Phone numbers",
+    "hoursLabel": "Working hours",
+    "hoursWeek": "24/7 — round the clock",
+    "hoursSun": "No days off",
+    "addressLabel": "Address",
+    "address": "209 Abu Sulaymon Banokatiy street, Tashkent",
+    "mapTitle": "Find us on the map",
+    "mapCta": "Open in Yandex Maps",
+    "socialLabel": "Social networks",
+    "form": {
+      "title": "Request a free quote",
+      "subtitle": "A personal manager replies within 30 minutes.",
+      "name": "Your name",
+      "namePlaceholder": "Full name",
+      "phone": "Phone",
+      "phonePlaceholder": "+998 __ ___ __ __",
+      "phoneInvalid": "Invalid phone number. Select the country code and enter the full number.",
+      "service": "Tariff of interest",
+      "services": {
+        "express": "Express · 8–12 days",
+        "standard": "Standard · 14–18 days",
+        "econom": "Econom · 20–30 days",
+        "customs": "Customs clearance",
+        "b2b": "B2B partnership"
+      },
+      "message": "Message (optional)",
+      "messagePlaceholder": "A few words about cargo volume, dispatch and destination…",
+      "submit": "Send request",
+      "sending": "Sending…",
+      "success": "Request received. We will contact you shortly!",
+      "error": "Could not send. Please try again.",
+      "disclaimer": "By submitting you agree to be contacted. Your data is never shared with third parties."
+    }
+  },
+  "newsletter": {
+    "title": "Get a personal quote on tariff and transit time",
+    "subtitle": "Leave your number — a manager will calculate the exact price and timing for your cargo.",
+    "namePlaceholder": "Your name",
+    "phonePlaceholder": "+998 __ ___ __ __",
+    "submit": "Send",
+    "success": "Thank you! We will be in touch shortly.",
+    "error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "about": "SAF EXPRESS LOGISTICS — express truck delivery from China to Uzbekistan. ON TIME.",
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick links",
+    "contacts": "Contacts",
+    "legalLabel": "Legal information",
+    "follow": "Social networks",
+    "madeWith": "Made with care",
+    "links": {
+      "tariffs": "Tariffs",
+      "calculator": "Profit calculator",
+      "route": "Route",
+      "guarantees": "Guarantees",
+      "contact": "Contact"
+    }
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "toggle": "Toggle theme"
+  },
+  "pages": {
+    "common": {
+      "breadcrumbHome": "Home",
+      "factsTitle": "At a glance",
+      "faqTitle": "Frequently asked questions",
+      "relatedTitle": "Read next",
+      "ctaTitle": "Need an exact quote for your cargo?",
+      "ctaText": "Tell us the route, volume and deadline — a manager comes back with a firm price and a departure date within 24 hours.",
+      "ctaPrimary": "Get a free quote",
+      "ctaSecondary": "Go to the home page",
+      "contactTitle": "Contact",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "addressLabel": "Address",
+      "hoursLabel": "Working hours",
+      "hoursValue": "24/7, no days off"
+    },
+    "items": {
+      "chinaFreight": {
+        "title": "Freight from China to Uzbekistan — by truck, door to door",
+        "description": "SAF Logistics moves cargo from China to Uzbekistan by road only: our own warehouses in Guangzhou and Yiwu, transit from 8–12 days, insurance and customs clearance in one contract.",
+        "eyebrow": "Core service",
+        "h1": "Freight from China to Uzbekistan",
+        "intro": "There are three ways to move goods from China to Uzbekistan: air is fast but expensive, rail is cheap but tied to a schedule, and road sits in between as the most practical option. SAF Logistics does only the third, and puts every resource into a single corridor.",
+        "sections": [
+          {
+            "h2": "Why road freight",
+            "body": [
+              "A truck is loaded at our warehouse in Guangzhou or Yiwu and unloaded at your warehouse in Tashkent. In between there is no transshipment, no lifting a container from a train onto a chassis, and no waiting for a berth. Every handling step is another day, another cost and another chance of damage.",
+              "Rail runs on a schedule: the train does not leave until it is full. A truck leaves the day the cargo is ready. In time-sensitive importing that difference is often two weeks."
+            ]
+          },
+          {
+            "h2": "How the process runs",
+            "body": [
+              "Stage one: our office in Guangzhou or Yiwu takes delivery from your supplier. No intermediary — our own staff member sees the goods, checks quantity and packaging, photographs them where needed and sends you a report. A discrepancy caught here costs ten times less than the same discrepancy caught in transit.",
+              "Stage two is consolidation and loading. If you buy from several suppliers, their shipments are combined into one truck. Stage three is the road and the border. Stage four is customs clearance and handover in Tashkent.",
+              "Through all of it you have a single point of contact — a dedicated manager. They do not wait for you to call chasing your cargo; they report each time the status changes."
+            ]
+          },
+          {
+            "h2": "What we carry",
+            "body": [
+              "We work B2B: full truckloads and large consignments. A typical client is an online retailer importing on a regular cycle, a wholesaler, a manufacturer, or a building-materials supplier.",
+              "Apparel, home appliances, spare parts, machinery and equipment, construction and packaging materials all sit inside our standard nomenclature. Dangerous goods, perishables and temperature-controlled cargo need to be agreed separately."
+            ]
+          },
+          {
+            "h2": "Choosing a service level",
+            "body": [
+              "There are three tariffs. All of them run the same corridor with the same transport — what differs is priority. Express is 8–12 days, Standard 14–18 days, Economy 20–30 days.",
+              "The logic is simple. If stock sells the moment it lands and turnover speed drives your margin, take Express. If this is planned replenishment, take Standard. If it is a large consignment bought well ahead and the date is not critical, take Economy."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Corridor",
+            "value": "Guangzhou & Yiwu → Tashkent"
+          },
+          {
+            "label": "Mode",
+            "value": "Road only (truck)"
+          },
+          {
+            "label": "Transit",
+            "value": "8–30 days depending on tariff"
+          },
+          {
+            "label": "Format",
+            "value": "Door to door"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do you collect cargo from other Chinese cities?",
+            "a": "We have hubs in Guangzhou and Yiwu. Delivery from suppliers in nearby provinces to whichever warehouse suits you can be arranged — agree it with your manager."
+          },
+          {
+            "q": "Can you combine shipments from several suppliers?",
+            "a": "Yes, consolidation is a standard service. Your suppliers ship to our Guangzhou or Yiwu warehouse and we build them into one consignment."
+          },
+          {
+            "q": "Is there a minimum volume?",
+            "a": "We handle full truckloads and large consignments. The exact minimum depends on the commodity — a manager will confirm for your case."
+          },
+          {
+            "q": "Can I track the cargo in transit?",
+            "a": "Yes. Your dedicated manager reports status changes, and you can ask for the current position at any time."
+          }
+        ]
+      },
+      "express": {
+        "title": "Express delivery from China — 8–12 days, guaranteed transit",
+        "description": "Express tariff: China (Guangzhou and Yiwu) to Tashkent in 8–12 days by truck. Priority loading, accelerated customs, a dedicated manager and 24/7 monitoring.",
+        "eyebrow": "Tariff",
+        "h1": "Express delivery: 8–12 days",
+        "intro": "Express does not simply mean faster. It means your cargo is first in every queue: first to load, first at the border, first through clearance. The transit time is written into the contract.",
+        "sections": [
+          {
+            "h2": "Where the speed actually comes from",
+            "body": [
+              "The truck does not drive faster — the time is won by removing queues. An express shipment does not wait for a full truckload to accumulate; the departure date is fixed in advance and the vehicle leaves on that date.",
+              "Customs paperwork is prepared while the cargo is already moving, so the file is complete by the time it reaches the border. That stage normally consumes the most days, and we run it in parallel with the road."
+            ]
+          },
+          {
+            "h2": "Who it pays off for",
+            "body": [
+              "Express costs more than Standard, but it is an investment rather than an expense. If a consignment is worth 50,000 dollars at a 25% margin, every extra turn returns 12,500 dollars. Cutting the cycle from 18 days to 10 means several extra turns a year.",
+              "For seasonal goods the arithmetic is starker: a consignment that misses the start of the season usually gets discounted, and the discount eats the entire margin."
+            ]
+          },
+          {
+            "h2": "What the Express tariff includes",
+            "body": [
+              "Priority loading, accelerated customs clearance, a dedicated personal manager, 24/7 monitoring and a guaranteed transit time. Cargo insurance and door-to-door delivery are included exactly as they are on the other tariffs.",
+              "A guaranteed transit time means the date goes into the contract and we answer for it rather than looking for an explanation."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Transit",
+            "value": "8–12 days"
+          },
+          {
+            "label": "Priority",
+            "value": "First to load and to clear"
+          },
+          {
+            "label": "Manager",
+            "value": "Dedicated, personal"
+          },
+          {
+            "label": "Monitoring",
+            "value": "24/7"
+          }
+        ],
+        "faq": [
+          {
+            "q": "What do the 8–12 days measure?",
+            "a": "From the day the cargo leaves our Guangzhou or Yiwu warehouse to the day it is handed to you in Tashkent, customs clearance included."
+          },
+          {
+            "q": "What happens if the transit time is missed?",
+            "a": "The commitment is recorded in the contract, and if there is a delay we answer on the terms set out there."
+          },
+          {
+            "q": "How much more is Express than Standard?",
+            "a": "The gap depends on volume, commodity and how regularly you ship. A manager will price it against your actual consignment."
+          },
+          {
+            "q": "Is insurance included on Express too?",
+            "a": "Yes. Insurance is included on all three tariffs at no extra charge."
+          }
+        ]
+      },
+      "standard": {
+        "title": "Standard delivery from China — 14–18 days, balanced option",
+        "description": "Standard tariff: China to Tashkent in 14–18 days. A balance of price and speed, scheduled departures, customs and insurance included in the rate.",
+        "eyebrow": "Tariff",
+        "h1": "Standard delivery: 14–18 days",
+        "intro": "Standard is the tariff most of our clients choose, for a straightforward reason: it is meaningfully cheaper than Express and close to twice as fast as Economy.",
+        "sections": [
+          {
+            "h2": "Built for planned importing",
+            "body": [
+              "If you replenish stock against a schedule you set in advance and nothing runs out unexpectedly, there is no reason to pay the Express premium. Standard exists for exactly that pattern.",
+              "Departures follow a planned schedule. You know the next departure date ahead of time and align purchasing with it."
+            ]
+          },
+          {
+            "h2": "How it differs from Express",
+            "body": [
+              "The transport is identical — same truck, same route. The only difference is the queue: a standard shipment waits for a full truckload to form, and customs paperwork is prepared on the normal cycle.",
+              "The service content is the same: tracking, customs clearance and cargo insurance are all included here too. A manager is still assigned and we are reachable 24/7 — the difference is that loading is not prioritised the way it is on express."
+            ]
+          },
+          {
+            "h2": "When to move up to Express",
+            "body": [
+              "One test decides it: if the goods are already sold by the time they reach your warehouse, or they are tied to a season, move to Express. In every other case Standard is enough.",
+              "The profit calculator puts that decision in numbers — it works out how much extra annual profit a shorter cycle produces."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Transit",
+            "value": "14–18 days"
+          },
+          {
+            "label": "Schedule",
+            "value": "Planned departures"
+          },
+          {
+            "label": "Customs",
+            "value": "Included in the rate"
+          },
+          {
+            "label": "Insurance",
+            "value": "Included in the rate"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is Standard the most popular tariff?",
+            "a": "Among clients running planned imports, yes. Where transit time is critical, Express dominates instead."
+          },
+          {
+            "q": "Can I know the departure date in advance?",
+            "a": "Yes — departures run to a schedule and your manager gives you the upcoming dates ahead of time."
+          },
+          {
+            "q": "Can the tariff be changed in transit?",
+            "a": "Once the cargo has departed the tariff is fixed. The decision is made before dispatch."
+          },
+          {
+            "q": "Is Standard also door to door?",
+            "a": "Yes, on all three tariffs the cargo goes from our warehouse in China to your address in Tashkent."
+          }
+        ]
+      },
+      "econom": {
+        "title": "Economy delivery from China — 20–30 days, budget option",
+        "description": "Economy tariff: China to Tashkent in 20–30 days. The lowest rate, for large consignments and non-urgent planned purchasing.",
+        "eyebrow": "Tariff",
+        "h1": "Economy delivery: 20–30 days",
+        "intro": "Economy is for the case where price is the priority. The cargo still moves by truck and still door to door — the schedule is simply looser.",
+        "sections": [
+          {
+            "h2": "Who this tariff suits",
+            "body": [
+              "Businesses that buy a large consignment up front and sell it down over several months. In that pattern a week either way changes nothing, while every dollar saved goes straight onto the margin.",
+              "It also suits a first trial order from a new supplier: you test the risk at the lowest possible cost."
+            ]
+          },
+          {
+            "h2": "Where the saving comes from — and where it does not",
+            "body": [
+              "The saving comes from the schedule: the shipment waits for the truck to fill and for the route to be formed optimally. That is what produces the 20–30 day window.",
+              "The saving does not come from quality. Tracking, customs clearance and cargo insurance stay fully in place — we do not move cargo uninsured."
+            ]
+          },
+          {
+            "h2": "Planning around the longer window",
+            "body": [
+              "Working with a 20–30 day window means starting procurement earlier. A practical rule: never let stock fall below one month of sales, or you will be forced to switch from Economy to Express at short notice and the saving disappears.",
+              "If you import regularly, overlap the shipments: while one is in transit the next is being prepared. Handled that way, the longer window stops being felt at all."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Transit",
+            "value": "20–30 days"
+          },
+          {
+            "label": "Best for",
+            "value": "Large, non-urgent consignments"
+          },
+          {
+            "label": "Mode",
+            "value": "Road only"
+          },
+          {
+            "label": "Insurance",
+            "value": "Included in the rate"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Is cargo less protected on Economy?",
+            "a": "No. Transport, route and insurance are identical. The only difference is how flexible the departure schedule is."
+          },
+          {
+            "q": "Can it run past 30 days?",
+            "a": "The stated window is 20–30 days. If something unexpected happens at the border your manager tells you immediately."
+          },
+          {
+            "q": "Is there an Economy option for a small consignment?",
+            "a": "We mainly handle full truckloads and large consignments. Give your manager the volume and they will suggest the right format."
+          },
+          {
+            "q": "Can I switch from Economy to Express?",
+            "a": "Before dispatch, yes, without difficulty. Once the truck is on the road the tariff does not change."
+          }
+        ]
+      },
+      "route": {
+        "title": "China–Tashkent route: Guangzhou and Yiwu, the border and transit times",
+        "description": "The road route from Guangzhou and Yiwu to Tashkent: over 6,000–7,000 km, the China–Kazakhstan or China–Kyrgyzstan border, explained stage by stage.",
+        "eyebrow": "Corridor",
+        "h1": "Guangzhou and Yiwu → Tashkent: how the route works",
+        "intro": "This page answers one question: how a truck travels from our warehouses in China — Guangzhou and Yiwu — to Tashkent, and where exactly the time goes. Understanding the route makes transit planning realistic.",
+        "sections": [
+          {
+            "h2": "Distance and the wider picture",
+            "body": [
+              "Guangzhou sits in southern China, Yiwu in the east, in Zhejiang province. Tashkent is in Central Asia. By road the distance from either point exceeds 6,000 kilometres: the truck crosses China heading north-west and reaches the border through Xinjiang.",
+              "One truck covers that distance without a break in the chain. The cargo is never moved onto another vehicle in transit — that is what makes the transit time predictable."
+            ]
+          },
+          {
+            "h2": "Why two departure points",
+            "body": [
+              "Guangzhou is a major manufacturing and trading centre in southern China: electronics, furniture, clothing, building materials. Yiwu is the world's largest small-commodity market — accessories, toys, stationery, household goods.",
+              "We run our own warehouse in both cities. Cargo goes to whichever is closer to your supplier, so you do not pay for unnecessary domestic haulage. Tariffs, transit times and terms are identical at both: Express 8–12, Standard 14–18, Economy 20–30 days."
+            ]
+          },
+          {
+            "h2": "The border is the stage that needs the most control",
+            "body": [
+              "Depending on routing, the truck crosses at the China–Kazakhstan or the China–Kyrgyzstan border. The border is where more time is lost than anywhere else on the road: a single inconsistency in the paperwork can turn into several days.",
+              "That is why the document set is prepared while the cargo is still moving and is already checked by the time it arrives. A large part of the speed on the Express tariff is won at this stage."
+            ]
+          },
+          {
+            "h2": "Why only one corridor",
+            "body": [
+              "A forwarder working across dozens of countries knows every route superficially. We chose the opposite: one corridor — China to Uzbekistan — where we know every border post, every partner and every seasonal bottleneck.",
+              "We have run this route since 2019 and delivered more than 500 shipments on time. Knowing a route means seeing a disruption coming and telling the client before it lands on them."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Departure points",
+            "value": "Guangzhou and Yiwu, China"
+          },
+          {
+            "label": "Destination",
+            "value": "Tashkent, Uzbekistan"
+          },
+          {
+            "label": "Distance",
+            "value": "over 6,000 km"
+          },
+          {
+            "label": "On this route",
+            "value": "Since 2019"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Where does the truck stop along the way?",
+            "a": "At scheduled rest points and at border control. The cargo is not transshipped — it stays in the same truck from start to finish."
+          },
+          {
+            "q": "Does winter extend the transit time?",
+            "a": "Weather and border congestion can affect it. In those cases your manager warns you in advance."
+          },
+          {
+            "q": "Can I deliver cargo to the Yiwu warehouse?",
+            "a": "Yes. The Yiwu and Guangzhou warehouses work identically: same tariffs, same transit times, same service. You pick whichever is closer to your supplier — your manager provides the address."
+          },
+          {
+            "q": "Do you deliver to other cities in Uzbekistan?",
+            "a": "Tashkent is the main delivery point. Delivery to other cities is agreed separately."
+          },
+          {
+            "q": "Can I choose the routing myself?",
+            "a": "The routing is chosen for the best outcome given the commodity, the deadline and current border conditions. If you have a requirement, tell your manager."
+          }
+        ]
+      },
+      "customs": {
+        "title": "Customs clearance — importing from China into Uzbekistan",
+        "description": "Customs clearance on imports from China to Uzbekistan: documents, stages and the usual mistakes. SAF Logistics handles clearance for you.",
+        "eyebrow": "Service",
+        "h1": "Customs clearance",
+        "intro": "Customs is the most common cause of delay in importing, and almost always a preventable one. This page sets out the process and the mistakes that cause the delays.",
+        "sections": [
+          {
+            "h2": "Where clearance starts",
+            "body": [
+              "It starts with documents. The invoice, packing list, contract and transport documents have to be complete and internally consistent before the cargo reaches the border.",
+              "Internally consistent is the operative phrase: the description, quantity and value on the invoice must match the packing list and the contract. In practice most delays trace back to exactly that mismatch."
+            ]
+          },
+          {
+            "h2": "Commodity code and duties",
+            "body": [
+              "Every commodity is assigned a code under the foreign-trade commodity nomenclature. That code determines the duties payable, which makes getting it right a direct financial question for the importer.",
+              "The specific rates vary by commodity and change over time. That is why we do not publish averaged percentages — a manager gives you the calculation for your own nomenclature."
+            ]
+          },
+          {
+            "h2": "What we take on",
+            "body": [
+              "Clearance is included on all three tariffs. We assemble the document set, check it, file the declaration and run the process to completion.",
+              "What we need from you is the supplier documentation and accurate product information, on time. We do the rest.",
+              "One point worth stating plainly: we prepare documents correctly, but we do not work around legal requirements. Requests to understate value or deliberately misclassify a commodity code are ones we decline."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Included",
+            "value": "Yes, on all three tariffs"
+          },
+          {
+            "label": "Core documents",
+            "value": "Invoice, packing list, contract"
+          },
+          {
+            "label": "Code",
+            "value": "Assigned under the trade nomenclature"
+          },
+          {
+            "label": "Prepared",
+            "value": "While the cargo is in transit"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Are duties included in the price?",
+            "a": "The clearance service is included. The duties themselves depend on your commodity code and value and are calculated separately."
+          },
+          {
+            "q": "What about goods that need certification?",
+            "a": "Certain categories require additional documents. Give us the nomenclature in advance and a manager will provide the list."
+          },
+          {
+            "q": "What if there is an error in the documents?",
+            "a": "Most errors are found and corrected before the cargo reaches the border. That is the whole point of checking the file in advance."
+          },
+          {
+            "q": "Can I handle clearance myself?",
+            "a": "Yes, if you prefer. In that case the transit guarantee does not cover the stage that stays on your side."
+          }
+        ]
+      },
+      "insurance": {
+        "title": "Cargo insurance — every shipment is insured",
+        "description": "SAF Logistics insures every shipment: cover is included in the rate with no surcharge. What is covered and how it works in practice.",
+        "eyebrow": "Guarantee",
+        "h1": "Cargo insurance",
+        "intro": "We do not move cargo uninsured. This is not an add-on and it is not sold separately — it is a base part of all three tariffs.",
+        "sections": [
+          {
+            "h2": "Why cover is mandatory here",
+            "body": [
+              "Over a 7,000-kilometre route the risk is never zero. The probability is low, but if the event happens the loss equals the client's entire consignment. Leaving that risk with the client does not fit how we work.",
+              "So we do not offer insurance as an optional extra — it is priced in from the start."
+            ]
+          },
+          {
+            "h2": "How the cargo is actually protected",
+            "body": [
+              "Insurance is the last line of defence, not the first. The first is the inspection when we take delivery at our warehouse in China: quantity, packaging condition and the visible state of the goods are documented.",
+              "The second is the absence of transshipment. A large share of damage happens during handling, and there is none in our scheme.",
+              "The third is monitoring and fast reaction to deviations. When something goes wrong we know the same day, not several days later."
+            ]
+          },
+          {
+            "h2": "What the contract commits to",
+            "body": [
+              "Cover terms, the claims process and each party's liability are written into the contract. We do not operate on verbal understandings.",
+              "The specific terms are shaped by the commodity and its value — a manager will walk you through them for your consignment."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Included in the rate",
+            "value": "Yes, on all three tariffs"
+          },
+          {
+            "label": "Surcharge",
+            "value": "None"
+          },
+          {
+            "label": "Transshipment",
+            "value": "None — one truck throughout"
+          },
+          {
+            "label": "Terms",
+            "value": "Recorded in the contract"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Do I pay separately for insurance?",
+            "a": "No. It is included in the rate and applies on all three tariffs."
+          },
+          {
+            "q": "How much of the cargo value is covered?",
+            "a": "The level of cover depends on the commodity and the declared value. Exact terms are set in the contract."
+          },
+          {
+            "q": "What do I do if damage is found?",
+            "a": "Tell your dedicated manager immediately. We handle the documentation and the steps that follow."
+          },
+          {
+            "q": "Are there special terms for high-value cargo?",
+            "a": "High-value consignments are agreed separately. Declare the value in advance."
+          }
+        ]
+      },
+      "pricing": {
+        "title": "What determines the cost of shipping from China to Uzbekistan",
+        "description": "What drives the delivery price: volume, weight, tariff, commodity and shipping frequency. How the calculation works and how to get a free quote.",
+        "eyebrow": "Pricing",
+        "h1": "How the price is built",
+        "intro": "We do not publish a rate card, and that is deliberate. Two shipments of identical volume can price completely differently — here is why.",
+        "sections": [
+          {
+            "h2": "Five factors that move the price",
+            "body": [
+              "First, the ratio of volume to weight. A truck has two limits: cubic capacity and tonnage. Light but bulky cargo exhausts the capacity; heavy compact cargo exhausts the tonnage. The price follows whichever limit is reached first.",
+              "Second, the tariff. This is where the difference between Express, Standard and Economy shows up.",
+              "Third, the commodity. What you are importing determines how complex clearance is and which documents are required.",
+              "Fourth, whether consolidation is needed. Cargo from a single supplier moving as a full truckload to one address prices better.",
+              "Fifth, frequency. Regular clients get a personal rate, and it differs noticeably from a one-off shipment."
+            ]
+          },
+          {
+            "h2": "Why we do not quote a price up front",
+            "body": [
+              "Publishing a per-kilogram figure is easy, but that figure almost always diverges from the real calculation — and the client meets the difference as an unexpected surcharge at the end.",
+              "Our approach is the opposite: the price is agreed at the start and does not move. No hidden charges. Making that promise work requires calculating against your actual cargo."
+            ]
+          },
+          {
+            "h2": "The largest saving is time, not rate",
+            "body": [
+              "Most importers compare freight rates alone and leave turnover speed out of the comparison. In reality a shorter cycle usually returns far more than the difference between two rates.",
+              "The profit calculator on the home page shows this numerically: enter your capital per consignment, your margin and your current cycle, and it works out the extra annual profit that speed produces."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Rate card",
+            "value": "None — every shipment is quoted"
+          },
+          {
+            "label": "Hidden charges",
+            "value": "None"
+          },
+          {
+            "label": "Quote turnaround",
+            "value": "Usually within 24 hours"
+          },
+          {
+            "label": "Regular clients",
+            "value": "Personal rate"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Will you give an indicative price by phone?",
+            "a": "Give us the route, volume, weight and commodity and a manager will indicate a range, with the firm figure following the calculation."
+          },
+          {
+            "q": "Can the price change later?",
+            "a": "An agreed price does not change. It only moves if you change the volume or the composition of the cargo."
+          },
+          {
+            "q": "How does payment work?",
+            "a": "Payment terms are set in the contract and agreed around the client's own process."
+          },
+          {
+            "q": "What do you need to quote?",
+            "a": "Commodity, approximate volume and weight, the transit time you need, and where the supplier is located."
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQ — shipping cargo from China to Uzbekistan",
+        "description": "Answers to the most common questions about shipping from China to Uzbekistan: transit times, price, customs, insurance, documents and how the process runs.",
+        "eyebrow": "Reference",
+        "h1": "Frequently asked questions",
+        "intro": "These are the questions our managers field every day, collected in one place. If your answer is not here, call us and we will answer directly.",
+        "sections": [
+          {
+            "h2": "Three things worth knowing before you start",
+            "body": [
+              "First, we run one corridor only: China → Uzbekistan, by road. We do not take enquiries for other lanes or other modes.",
+              "Second, we are a B2B operation — full truckloads and large consignments. We do not handle small private parcels.",
+              "Third, customs clearance and cargo insurance are included on all three tariffs. They are not separately sold extras."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Corridor",
+            "value": "China → Uzbekistan only"
+          },
+          {
+            "label": "Segment",
+            "value": "B2B, large consignments"
+          },
+          {
+            "label": "Mode",
+            "value": "Road only"
+          },
+          {
+            "label": "Response",
+            "value": "24/7"
+          }
+        ],
+        "faq": [
+          {
+            "q": "How long does delivery take?",
+            "a": "It depends on the tariff: Express 8–12 days, Standard 14–18 days, Economy 20–30 days. The clock runs from our warehouse in China to handover in Tashkent."
+          },
+          {
+            "q": "How is the price calculated?",
+            "a": "From the volume-to-weight ratio, the chosen tariff, the commodity, whether consolidation is required, and how regularly you ship. There is no rate card — every shipment is quoted individually."
+          },
+          {
+            "q": "Who handles customs clearance?",
+            "a": "We do. We assemble the document set, check it and file the declaration. This is included on all three tariffs."
+          },
+          {
+            "q": "Is the cargo insured?",
+            "a": "Yes, every shipment is insured and it is included in the rate. We do not move cargo uninsured."
+          },
+          {
+            "q": "Is the cargo transshipped in transit?",
+            "a": "No. It is loaded in Guangzhou or Yiwu and unloaded in Tashkent — between those points it never moves onto another vehicle."
+          },
+          {
+            "q": "Can you combine shipments from several suppliers?",
+            "a": "Yes. Your suppliers deliver to our Guangzhou or Yiwu warehouse and we consolidate there."
+          },
+          {
+            "q": "Can I track my cargo?",
+            "a": "Yes. Your dedicated manager reports status changes and will give you the current position whenever you ask."
+          },
+          {
+            "q": "Can you check a supplier in China?",
+            "a": "Our offices in Guangzhou and Yiwu verify quantity and packaging on receipt and sends a report. A full supplier audit is arranged separately."
+          },
+          {
+            "q": "Is there a contract?",
+            "a": "Yes. Transit time, price, insurance terms and each party's liability are recorded in the contract."
+          },
+          {
+            "q": "How do I start?",
+            "a": "Call us or leave a request through the form on the home page. Give the commodity, approximate volume and the deadline you need, and a manager returns a quote and a departure date."
+          }
+        ]
+      },
+      "company": {
+        "title": "SAF Logistics — on the China–Uzbekistan corridor since 2019",
+        "description": "About SAF Logistics: our own warehouses in Guangzhou and Yiwu, 500+ shipments delivered on time, founded by Farrukh Mashanpin, a forwarder specialising in one corridor.",
+        "eyebrow": "Company",
+        "h1": "About SAF Logistics",
+        "intro": "SAF is a company built on one promise: on time. That is not a slogan but the operating model — we measure ourselves in days saved for the client, not tonnes moved.",
+        "sections": [
+          {
+            "h2": "What we do not do",
+            "body": [
+              "Company pages usually open with everything the company can do. We open with the opposite, because the specialisation is the point.",
+              "We do not cover dozens of countries. We do not do air or rail freight. We do not carry small private parcels. And we do not dispatch cargo without insurance.",
+              "Everything else — road freight from China to Uzbekistan — is our daily work, and we know it in depth."
+            ]
+          },
+          {
+            "h2": "Our own warehouses in China",
+            "body": [
+              "Many forwarders operate in China through a local intermediary. It is cheaper and it costs you control: nobody actually looks at the cargo, and a problem surfaces only after it has reached Uzbekistan.",
+              "Our offices and warehouses in China — in Guangzhou and Yiwu — are our own. Our staff receive the cargo, inspect it, consolidate it and supervise loading. When something goes wrong it is resolved in China, not 7,000 kilometres later."
+            ]
+          },
+          {
+            "h2": "Numbers and history",
+            "body": [
+              "We have worked the China–Uzbekistan corridor since 2019, delivering more than 500 shipments on time over that period.",
+              "The founder is Farrukh Mashanpin, who directly runs the Guangzhou office — meaning the process owner on the Chinese side is the head of the company.",
+              "The registered name is SAF EXPRESS LOGISTICS MChJ. The office is in Tashkent at 209 Abu Sulaymon Banokatiy Street."
+            ]
+          },
+          {
+            "h2": "Who we work with",
+            "body": [
+              "Entrepreneurs, online retailers, importers and wholesalers, manufacturers, and projects in a scaling phase.",
+              "They share one trait: in these businesses turnover speed converts directly into profit. Those are the clients our model creates the most value for."
+            ]
+          }
+        ],
+        "facts": [
+          {
+            "label": "Operating since",
+            "value": "2019"
+          },
+          {
+            "label": "Shipments delivered",
+            "value": "500+ on time"
+          },
+          {
+            "label": "China hub",
+            "value": "Guangzhou & Yiwu — our own warehouses"
+          },
+          {
+            "label": "Founder",
+            "value": "Farrukh Mashanpin"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Which lanes does SAF cover?",
+            "a": "One only: China → Uzbekistan. Departures from our Guangzhou and Yiwu warehouses, by road."
+          },
+          {
+            "q": "Do you have your own office in China?",
+            "a": "Yes, in Guangzhou and Yiwu. Receipt, inspection and consolidation are done on site without intermediaries."
+          },
+          {
+            "q": "Do you work with private individuals?",
+            "a": "Our format is B2B: full truckloads and large consignments. We do not handle small parcels."
+          },
+          {
+            "q": "Can I visit your office?",
+            "a": "Yes — 209 Abu Sulaymon Banokatiy Street, Tashkent. We are reachable 24/7; an office visit is arranged with your manager in advance."
+          }
+        ]
+      }
+    }
+  }
+}
